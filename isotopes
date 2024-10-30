@@ -1,0 +1,220 @@
+# Load necessary libraries
+install.packages("rjags")
+install.packages("readr")
+install.packages("SIBER")
+library(rjags)
+library(readr)
+library(SIBER)
+
+# Read in data
+smammals_SEA_Bison <- read_csv("SIBER_smammals_Bison.csv")
+smammals_SEA_Burn <- read_csv("SIBER_smammals_Burn.csv")
+
+# Convert categorical columns to numeric codes for Bison data
+smammals_SEA_Bison$group <- as.numeric(as.factor(smammals_SEA_Bison$group))
+smammals_SEA_Bison$community <- as.numeric(as.factor(smammals_SEA_Bison$community))
+
+# Convert categorical columns to numeric codes for Burn data
+smammals_SEA_Burn$group <- as.numeric(as.factor(smammals_SEA_Burn$group))
+smammals_SEA_Burn$community <- as.numeric(as.factor(smammals_SEA_Burn$community))
+
+# Convert tibble to data.frame
+smammals_SEA_Bison <- as.data.frame(smammals_SEA_Bison)
+smammals_SEA_Burn <- as.data.frame(smammals_SEA_Burn)
+
+# Create the SIBER objects for Bison and Burn
+siber_bison <- createSiberObject(smammals_SEA_Bison)
+siber_burn <- createSiberObject(smammals_SEA_Burn)
+
+# Parameters for running JAGS
+parms <- list()
+parms$n.iter <- 2 * 10^4   # number of iterations to run the model for
+parms$n.burnin <- 1 * 10^3 # discard the first set of values
+parms$n.thin <- 10         # thin the posterior by this many
+parms$n.chains <- 2        # run this many chains
+
+# Define the priors
+priors <- list()
+priors$R <- 1 * diag(2)
+priors$k <- 2
+priors$tau.mu <- 1.0E-3
+
+# Run the Bayesian models for Bison and Burn datasets
+ellipses.posterior_bison <- siberMVN(siber_bison, parms, priors)
+ellipses.posterior_burn <- siberMVN(siber_burn, parms, priors)
+
+# Calculate Standard Ellipse Areas (SEAs)
+SEA.B_bison <- siberEllipses(ellipses.posterior_bison)
+SEA.B_burn <- siberEllipses(ellipses.posterior_burn)
+
+# Calculate 95% and 99% credible intervals for the posterior SEA
+cr.p <- c(0.95, 0.99) # Quantiles for credible intervals
+SEA.B_credible <- lapply(
+  as.data.frame(SEA.B_bison),
+  function(x,...){tmp <- hdrcde::hdr(x)$hdr}, # Estimate credible intervals
+  prob = cr.p)
+
+# Get the mode of the posterior SEA
+SEA.B_modes <- lapply(
+  as.data.frame(SEA.B_bison),
+  function(x,...){tmp <- hdrcde::hdr(x)$mode}, 
+  prob = cr.p, all.modes=TRUE)
+
+# Print credible intervals and modes
+print("Posterior SEA Credible Intervals (95% and 99%):")
+print(SEA.B_credible)
+
+print("Posterior SEA Modes:")
+print(SEA.B_modes)
+
+# Calculate Maximum Likelihood estimates for each group for Bison and Burn
+group.ML_bison <- groupMetricsML(siber_bison)
+group.ML_burn <- groupMetricsML(siber_burn)
+
+# PLOT 1: DENSITY PLOTS WITH ML ESTIMATES FOR BISON
+
+siberDensityPlot(SEA.B_bison, xticklabels = colnames(group.ML_bison),
+                 xlab = c("Community | Group"),
+                 ylab = expression("Standard Ellipse Area " ('permille' ^2)),
+                 bty = "L",
+                 las = 1,
+                 main = "SIBER Ellipses - Bison Grazing"
+)
+
+# Add red x's for the ML estimated SEA-c for Bison
+points(1:ncol(SEA.B_bison), group.ML_bison[3,], col="red", pch = "x", lwd = 2)
+
+# PLOT 2: DENSITY PLOTS WITH ML ESTIMATES FOR BURN
+
+siberDensityPlot(SEA.B_burn, xticklabels = colnames(group.ML_burn),
+                 xlab = c("Community | Group"),
+                 ylab = expression("Standard Ellipse Area " ('permille' ^2)),
+                 bty = "L",
+                 las = 1,
+                 main = "SIBER Ellipses - Prescribed Burn"
+)
+
+# Add red x's for the ML estimated SEA-c for Burn
+points(1:ncol(SEA.B_burn), group.ML_burn[3,], col="red", pch = "x", lwd = 2)
+
+# PLOT 3: SIBER ISOTOPIC BIPLOT FOR BISON WITH ELLIPSES
+
+# Plot the SIBER object for Bison
+plotSiberObject(siber_bison,
+                ax.pad = 2,  # Padding around axes
+                hulls = FALSE, # Don't plot convex hulls
+                ellipses = FALSE, # Don't plot ellipses here
+                group.hulls.args = NULL, 
+                community.hulls.args = NULL)
+
+# Manually add the ellipses for each community and group in Bison
+for(i in 1:ncol(SEA.B_bison)) {
+  addEllipse(SEA.B_bison[, i], p.interval = 0.95, col = "blue", lty = 1, lwd = 2, n = 100)
+}
+
+
+# PLOT 4: SIBER ISOTOPIC BIPLOT FOR BURN WITH ELLIPSES
+
+# Plot the SIBER object for Burn
+plotSiberObject(siber_burn,
+                ax.pad = 2,  # Padding around axes
+                hulls = FALSE, # Don't plot convex hulls
+                ellipses = FALSE, # Don't plot ellipses here
+                group.hulls.args = NULL, 
+                community.hulls.args = NULL)
+
+# Manually add the ellipses for each community and group in Burn
+for(i in 1:ncol(SEA.B_burn)) {
+  addEllipse(SEA.B_burn[, i], p.interval = 0.95, col = "blue", lty = 1, lwd = 2, n = 100)
+}
+
+#To get some compariable numerical results can calulate the group metrics (for group: 1 = bison, 2 = no bison. For community 1 = M.och, 2 = P.leu, 3 = P.man )
+
+# Calculate Maximum Likelihood (ML) estimates for SEA
+group.ML_bison <- groupMetricsML(siber_bison)
+
+# Print the ML estimates for each group
+print("Maximum Likelihood Estimates for SEA:")
+print(group.ML_bison)
+
+# Calculate Maximum Likelihood (ML) estimates for SEA for Burn
+group.ML_burn <- groupMetricsML(siber_burn)
+
+# Print the ML estimates for Burn
+
+#load data and library
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(readr)
+SIBER_smammals_Burn <- read_csv("SIBER_smammals_Burn.csv")
+
+# options for running jags
+parms <- list()
+parms$n.iter <- 2 * 10^4   # number of iterations to run the model for
+parms$n.burnin <- 1 * 10^3 # discard the first set of values
+parms$n.thin <- 10     # thin the posterior by this many
+parms$n.chains <- 2        # run this many chains
+
+# define the priors
+priors <- list()
+priors$R <- 1 * diag(2)
+priors$k <- 2
+priors$tau.mu <- 1.0E-3
+
+# fit the ellipses which uses an Inverse Wishart prior
+# on the covariance matrix Sigma, and a vague normal prior on the 
+# means. Fitting is via the JAGS method.
+ellipses.posterior <- siberMVN(siber.example, parms, priors)
+
+
+SEA.B <- siberEllipses(ellipses.posterior)
+
+siberDensityPlot(SEA.B, xticklabels = colnames(group.ML), 
+                 xlab = c("Community | Group"),
+                 ylab = expression("Standard Ellipse Area " ('permille' ^2) ),
+                 bty = "L",
+                 las = 1,
+                 main = "SIBER ellipses on each group"
+)
+
+# Add red x's for the ML estimated SEA-c
+points(1:ncol(SEA.B), group.ML[3,], col="red", pch = "x", lwd = 2)
+
+# Calculate some credible intervals 
+cr.p <- c(0.95, 0.99) # vector of quantiles
+
+# call to hdrcde:hdr using lapply()
+SEA.B.credibles <- lapply(
+  as.data.frame(SEA.B), 
+  function(x,...){tmp<-hdrcde::hdr(x)$hdr},
+  prob = cr.p)
+
+# do similar to get the modes, taking care to pick up multimodal posterior
+# distributions if present
+SEA.B.modes <- lapply(
+  as.data.frame(SEA.B), 
+  function(x,...){tmp<-hdrcde::hdr(x)$mode},
+  prob = cr.p, all.modes=T)
+
+#isotopic comparison for 3 smammals
+```{r}
+smammals %>% filter(!Year==2020) %>% 
+  ggplot(aes(x=d13C, y=d15N, color= Species, group=Species)) +
+  geom_point() +
+  facet_wrap(~Burn) +
+  stat_ellipse()
+#facet_wrap(~Burn)
+
+smammals %>% filter(!Year==2020) %>% 
+  ggplot(aes(x=d13C, y=d15N, color= Species, group=Species)) +
+  geom_point() +
+  facet_wrap(~Bison) +
+  stat_ellipse()
+#facet_wrap(~Bison)
+
+cat("Maximum Likelihood Estimates for SEA (Burn):\n")
+print(group.ML_burn)
+
+
+
