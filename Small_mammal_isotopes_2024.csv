@@ -1,0 +1,374 @@
+﻿Type,Species,Tag,Year,Location,Burn,Bison,d15N,d13C
+Small mammal,I.tri,1264,2018,FC,Burned,No bison,4.38,-24.01
+Small mammal,I.tri,1414,2016,MUR,Unburned,Bison,2.98,-21.02
+Small mammal,I.tri,1440,2017,CCW,Unburned,No bison,2.97,-23.49
+Small mammal,I.tri,1555,2018,HF,Burned,Bison,5.96,-23.25
+Small mammal,P.man,2048,2017,CCE,Burned,No bison,3.98,-21.48
+Small mammal,P.man,2071,2018,SBEX1,Unburned,No bison,3.84,-22.31
+Small mammal,R.meg,2082,2017,TC,Unburned,No bison,3.7,-20.36
+Small mammal,P.man,2098,2017,HPN,Burned,Bison,5.76,-12.69
+Small mammal,P.man,2134,2017,HF,Burned,Bison,5.07,-24.76
+Small mammal,P.leu,2150,2017,SBEX2,Unburned,No bison,5.41,-23.23
+Small mammal,P.man,2151,2017,SB,Unburned,No bison,6.03,-12.71
+Small mammal,P.man,2157,2017,AG,Unburned,No bison,8.05,-12.74
+Small mammal,P.man,2158,2017,SB,Unburned,No bison,5.36,-15.18
+Small mammal,P.man,2162,2017,SBEX1,Unburned,No bison,7.33,-11.53
+Small mammal,P.man,2171,2017,SBEX1,Unburned,No bison,4.13,-20.79
+Small mammal,M.och,2177,2017,SBEX1,Unburned,No bison,8.12,-24.93
+Small mammal,M.och,2179,2017,SBEX1,Unburned,No bison,4.26,-25.95
+Small mammal,P.leu,2184,2017,TCR,Unburned,No bison,5.59,-24.3
+Small mammal,P.leu,2186,2017,TCEX,Unburned,No bison,3.37,-23.73
+Small mammal,P.man,2191,2017,SBEX1,Unburned,No bison,4.15,-17.64
+Small mammal,P.man,2195,2017,SBEX1,Unburned,No bison,4.35,-19.15
+Small mammal,P.man,2197,2017,TCEX,Unburned,No bison,3.19,-20.68
+Small mammal,P.man,2199,2017,AG,Unburned,No bison,6.89,-10.38
+Small mammal,P.leu,2202,2017,SBEX1,Unburned,No bison,3.44,-20.34
+Small mammal,P.leu,2207,2017,TCR,Unburned,No bison,3.63,-23.83
+Small mammal,P.leu,2209,2017,TCEX,Unburned,No bison,7.45,-15.43
+Small mammal,M.och,2220,2017,SB,Unburned,No bison,5.54,-18.56
+Small mammal,P.man,2221,2017,TCEX,Unburned,No bison,5.94,-14.49
+Small mammal,P.man,2222,2017,SBEX1,Unburned,No bison,5.96,-15.18
+Small mammal,R.meg,2223,2017,TCR,Unburned,No bison,3.78,-17.55
+Small mammal,P.man,2224,2017,SBEX1,Unburned,No bison,4.59,-21.55
+Small mammal,M.och,2225,2017,TC,Unburned,No bison,3.01,-22.72
+Small mammal,P.man,2227,2017,AG,Unburned,No bison,6.03,-13.21
+Small mammal,P.leu,2230,2017,SB,Unburned,No bison,5.91,-18.38
+Small mammal,P.man,2231,2017,SB,Unburned,No bison,7.02,-9.27
+Small mammal,P.leu,2234,2017,TCR,Unburned,No bison,8.18,-11.52
+Small mammal,M.och,2239,2017,SBEX1,Unburned,No bison,3.51,-26.03
+Small mammal,R.meg,2241,2017,TCR,Unburned,No bison,1.96,-12.21
+Small mammal,P.man,2242,2017,SB,Unburned,No bison,7.06,-11.53
+Small mammal,M.och,2245,2017,TCEX,Unburned,No bison,4.09,-26.55
+Small mammal,M.och,2247,2017,SBEX1,Unburned,No bison,3.39,-26.43
+Small mammal,P.man,2248,2017,CCEEX,Unburned,No bison,4.17,-23.19
+Small mammal,P.leu,2250,2017,SBEX1,Unburned,No bison,4.92,-13.85
+Small mammal,P.man,2252,2017,HPN,Burned,Bison,2.18,-12.77
+Small mammal,M.och,2256,2017,SB,Unburned,No bison,3.46,-26.72
+Small mammal,P.man,2258,2018,HPW,Burned,Bison,6.63,-17.26
+Small mammal,P.leu,2261,2017,CCW,Unburned,No bison,3.85,-14.8
+Small mammal,P.leu,2263,2018,SF,Unburned,No bison,6.66,-13.62
+Small mammal,P.leu,2266,2017,SBEX2,Unburned,No bison,9.61,-17.28
+Small mammal,M.och,2270,2018,HL,Burned,Bison,4.87,-22.33
+Small mammal,P.man,2273,2017,CCE,Burned,No bison,5.58,-17.17
+Small mammal,P.man,2274,2017,SBEX2,Unburned,No bison,4,-23.51
+Small mammal,P.leu,2276,2017,CCEEX,Unburned,No bison,8.58,-12.4
+Small mammal,P.man,2287,2017,CCEEX,Unburned,No bison,6.21,-14.67
+Small mammal,P.man,2289,2017,AG,Unburned,No bison,7.02,-10.89
+Small mammal,P.man,2291,2018,HPN,Unburned,Bison,5.64,-22.3
+Small mammal,P.man,2298,2017,HF,Burned,Bison,5.69,-24.99
+Small mammal,P.man,2299,2017,CCE,Burned,No bison,1.51,-19.71
+Small mammal,P.man,2302,2017,CCEEX,Unburned,No bison,3.74,-23.49
+Small mammal,P.man,2304,2017,TCEX,Unburned,No bison,5.73,-15.57
+Small mammal,P.man,2310,2017,AG,Unburned,No bison,8.95,-10.4
+Small mammal,P.leu,2313,2018,HL,Burned,Bison,5.42,-22.87
+Small mammal,M.och,2316,2017,HF,Burned,Bison,6.29,-29.03
+Small mammal,P.man,2317,2018,HF,Burned,Bison,6.1,-23.09
+Small mammal,P.man,2318,2018,TCR,Burned,No bison,8.32,-11.45
+Small mammal,P.leu,2320,2017,CCW,Unburned,No bison,7.72,-26.37
+Small mammal,P.man,2321,2018,FC,Burned,No bison,5.63,-23.73
+Small mammal,P.man,2325,2017,AG,Unburned,No bison,8.87,-13.5
+Small mammal,P.leu,2327,2017,TCEX,Unburned,No bison,8.08,-16.43
+Small mammal,P.man,2330,2017,HPN,Burned,Bison,5.66,-23.7
+Small mammal,P.leu,2332,2017,TC,Unburned,No bison,3.21,-16.45
+Small mammal,P.man,2333,2017,TC,Unburned,No bison,6.41,-12.62
+Small mammal,M.och,2339,2018,L,Unburned,Bison,5.67,-26.42
+Small mammal,P.man,2345,2017,SB,Unburned,No bison,3.82,-22.18
+Small mammal,P.man,2347,2017,HF,Burned,Bison,6.31,-25.17
+Small mammal,P.man,2351,2019,CCW,Unburned,No bison,4.4,-19.8
+Small mammal,P.leu,2352,2019,MU,Unburned,Bison,4.12,-24.38
+Small mammal,P.man,2354,2019,CCWE,Unburned,No bison,5.36,-23.44
+Small mammal,P.man,2357,2019,TCR,Unburned,No bison,6.29,-18.07
+Small mammal,P.man,2359,2019,SBEX1,Burned,No bison,6.24,-20.38
+Small mammal,P.man,2360,2019,MUR,Burned,Bison,,-22.42
+Small mammal,P.leu,2362,2019,TCR,Unburned,No bison,5.26,-24.16
+Small mammal,P.man,2363,2016,SBEX2,Unburned,No bison,3.51,-23.4
+Small mammal,P.man,2365,2019,CCEE,Burned,No bison,3.91,-19.86
+Small mammal,P.man,2367,2019,CCWE,Unburned,No bison,5.07,-22.96
+Small mammal,P.man,2368,2019,CCW,Unburned,No bison,5.29,-23.28
+Small mammal,P.man,2372,2019,CCWE,Unburned,No bison,5.48,-24.22
+Small mammal,P.man,2374,2019,SF,Burned,No bison,6.34,-24.14
+Small mammal,P.man,2375,2019,HPN,Unburned,Bison,4.24,-24.94
+Small mammal,P.man,2377,2019,CCWE,Unburned,No bison,6.04,-23.02
+Small mammal,P.man,2378,2019,CCW,Unburned,No bison,4.75,-23.66
+Small mammal,P.leu,2380,2019,WH,Burned,Bison,4.19,-22.93
+Small mammal,P.man,2382,2016,SB,Burned,No bison,3.97,-18.77
+Small mammal,P.man,2389,2019,HPN,Unburned,Bison,5.55,-24.73
+Small mammal,R.meg,2390,2019,FC,Unburned,No bison,6.26,-23.95
+Small mammal,R.meg,2390,2019,FC,Unburned,No bison,7.22,-20.9
+Small mammal,P.man,2393,2019,FC,Unburned,No bison,0.45,-11.73
+Small mammal,P.man,2396,2019,SB,Burned,No bison,7.54,-18.69
+Small mammal,P.leu,2397,2017,L,Burned,Bison,5.43,-21.18
+Small mammal,P.man,2402,2019,CCW,Unburned,No bison,4.18,-19.85
+Small mammal,P.man,2405,2019,CCW,Unburned,No bison,5.78,-20.28
+Small mammal,Z.hud,2406,2016,WH,Unburned,Bison,0.95,-20.5
+Small mammal,P.man,2412,2019,SBEX2,Burned,No bison,4.35,-18.8
+Small mammal,P.man,2417,2019,CCEE,Burned,No bison,5.47,-22.81
+Small mammal,P.man,2419,2019,TCE,Unburned,No bison,5.28,-13.96
+Small mammal,P.man,2425,2019,SBEX1,Burned,No bison,6.17,-17.68
+Small mammal,P.man,2426,2019,TC,Unburned,No bison,6.85,-19.73
+Small mammal,P.man,2428,2019,CCE,Burned,No bison,7.6,-21.58
+Small mammal,P.leu,2430,2019,WH,Burned,Bison,4.68,-23.78
+Small mammal,P.man,2431,2019,SBEX2,Burned,No bison,6.37,-19.55
+Small mammal,P.leu,2434,2019,WH,Burned,Bison,3.82,-23.35
+Small mammal,P.man,2435,2019,TC,Unburned,No bison,7.28,-12.32
+Small mammal,P.man,2436,2019,CCW,Unburned,No bison,5.45,-21.05
+Small mammal,P.man,2439,2019,SF,Burned,No bison,6.32,-21.57
+Small mammal,P.man,2440,2019,TCR,Unburned,No bison,6.01,-22.46
+Small mammal,P.man,2441,2019,SBEX2,Burned,No bison,4.05,-22.39
+Small mammal,P.man,2443,2019,CCWE,Unburned,No bison,3.07,-20.63
+Small mammal,P.leu,2445,2019,WH,Burned,Bison,2.74,-25.08
+Small mammal,R.meg,2448,2019,TCR,Unburned,No bison,3.33,-23.75
+Small mammal,P.leu,2514,2016,HL,Unburned,Bison,5.13,-15.7
+Small mammal,R.meg,2613,2016,HPW,Unburned,Bison,8.77,-16.74
+Small mammal,P.man,2729,2018,SBEX1,Unburned,No bison,8.14,-15.2
+Small mammal,P.man,2923,2019,SB,Burned,No bison,5.5,-9.93
+Small mammal,P.man,2924,2019,HPN,Unburned,Bison,4.32,-23.84
+Small mammal,P.man,2926,2019,TC,Unburned,No bison,5.78,-11.24
+Small mammal,P.leu,2930,2018,TCEX,Unburned,No bison,6.49,-18.44
+Small mammal,P.man,2932,2018,TC,Burned,No bison,8.44,-10.43
+Small mammal,P.leu,2936,2019,WH,Burned,Bison,2.25,-21.4
+Small mammal,P.leu,2937,2018,TCEX,Unburned,No bison,7.75,-17.74
+Small mammal,P.leu,2938,2018,HL,Burned,Bison,4.87,-23.96
+Small mammal,R.meg,2939,2019,FC,Unburned,No bison,5.01,-26.57
+Small mammal,P.man,2940,2018,FC,Burned,No bison,5.54,-18.07
+Small mammal,P.man,2940,2018,FC,Burned,No bison,5.59,-18.77
+Small mammal,P.man,2941,2019,L,Burned,Bison,2.3,-12.65
+Small mammal,P.man,2944,2019,SB,Burned,No bison,7.22,-21.04
+Small mammal,P.man,2947,2018,TC,Burned,No bison,8.36,-10.84
+Small mammal,P.leu,2954,2019,TCR,Unburned,No bison,2.72,-17.25
+Small mammal,P.man,2955,2019,L,Burned,Bison,8.51,-24.13
+Small mammal,P.man,2959,2019,CCE,Burned,No bison,5.01,-20.06
+Small mammal,P.leu,2960,2019,WH,Burned,Bison,3.92,-23.26
+Small mammal,M.och,2964,2018,WH,Unburned,Bison,3,-25.34
+Small mammal,P.leu,2970,2018,WH,Unburned,Bison,2.76,-21.26
+Small mammal,P.man,2972,2018,HL,Burned,Bison,6.03,-21.61
+Small mammal,P.leu,2973,2018,HPW,Burned,Bison,2.37,-23.95
+Small mammal,P.leu,2973,2018,HPW,Burned,Bison,4.49,-23.46
+Small mammal,P.leu,2974,2018,TCEX,Unburned,No bison,6.71,-20.28
+Small mammal,P.man,2975,2019,HF,Unburned,Bison,5.18,-23.71
+Small mammal,P.leu,2979,2018,CCE,Unburned,No bison,3.4,-18.34
+Small mammal,P.leu,2982,2018,TCEX,Unburned,No bison,7.37,-10.29
+Small mammal,P.man,2987,2018,TC,Burned,No bison,9.18,-10.52
+Small mammal,P.man,2987,2018,TC,Burned,No bison,7.15,-13.77
+Small mammal,P.man,2988,2019,HPN,Unburned,Bison,5.82,-24.64
+Small mammal,P.man,2992,2019,HPN,Unburned,Bison,4.62,-24.27
+Small mammal,P.man,2994,2018,TC,Burned,No bison,7.9,-11.89
+Small mammal,P.man,2996,2019,L,Burned,Bison,4.31,-25.26
+Small mammal,P.man,3002,2019,L,Burned,Bison,5.83,-13.14
+Small mammal,P.man,3004,2019,L,Burned,Bison,8.53,-12.68
+Small mammal,M.och,3007,2018,CCEEX,Unburned,No bison,3.43,-27.23
+Small mammal,P.man,3010,2019,L,Burned,Bison,6.6,-14.16
+Small mammal,P.man,3012,2018,TC,Burned,No bison,7.83,-17.9
+Small mammal,P.man,3020,2018,TCEX,Unburned,No bison,7.1,-12.91
+Small mammal,P.man,3021,2018,HF,Burned,Bison,4.72,-23.98
+Small mammal,M.och,3022,2018,TCR,Burned,No bison,4.26,-25.24
+Small mammal,P.man,3025,2018,CCW,Burned,No bison,8.25,-12.54
+Small mammal,P.man,3028,2018,HF,Burned,Bison,5.64,-22.55
+Small mammal,P.man,3028,2018,HF,Burned,Bison,6.43,-14.54
+Small mammal,M.och,3031,2018,SF,Unburned,No bison,3.5,-26
+Small mammal,P.man,3032,2018,MUR,Burned,Bison,5.05,-22.02
+Small mammal,P.man,3032,2018,MUR,Burned,Bison,2.27,-22.82
+Small mammal,P.man,3033,2019,WH,Burned,Bison,2.46,-24.2
+Small mammal,P.man,3034,2018,CCW,Burned,No bison,2.91,-23.64
+Small mammal,M.och,3036,2018,TC,Burned,No bison,5.56,-25.12
+Small mammal,P.man,3038,2018,MU,Burned,Bison,2.92,-22.31
+Small mammal,P.man,3039,2018,CCW,Burned,No bison,3.32,-24.71
+Small mammal,P.man,3041,2018,HF,Burned,Bison,5.7,-24.47
+Small mammal,P.man,3042,2019,SB,Burned,No bison,4.16,-20.31
+Small mammal,M.mus,3043,2018,SB,Unburned,No bison,13.82,-10.66
+Small mammal,P.man,3044,2018,TC,Burned,No bison,6.51,-23.24
+Small mammal,P.leu,3047,2018,SBEX1,Unburned,No bison,4.47,-21.43
+Small mammal,P.leu,3047,2018,SBEX1,Unburned,No bison,7.67,-22.76
+Small mammal,P.man,3049,2018,SBEX1,Unburned,No bison,6.03,-22.94
+Small mammal,M.och,3053,2018,TC,Burned,No bison,4.25,-26.43
+Small mammal,P.man,3054,2018,TCR,Burned,No bison,6.09,-19.5
+Small mammal,P.leu,3055,2018,MU,Burned,Bison,2.21,-24.93
+Small mammal,P.man,3057,2019,TCE,Unburned,No bison,3.96,-12.91
+Small mammal,P.leu,3061,2018,CCWEX,Unburned,No bison,6.49,-22.87
+Small mammal,P.leu,3062,2018,HPW,Burned,Bison,4.11,-24.32
+Small mammal,P.leu,3062,2018,HPW,Burned,Bison,3.95,-24.81
+Small mammal,P.leu,3063,2019,WH,Burned,Bison,1.96,-21.74
+Small mammal,P.leu,3065,2018,HL,Burned,Bison,5.29,-22.26
+Small mammal,P.man,3066,2019,SBEE,Unburned,No bison,6.24,-12.56
+Small mammal,P.leu,3067,2018,WH,Unburned,Bison,4.74,-22.37
+Small mammal,P.man,3068,2018,HF,Burned,Bison,4.56,-24.31
+Small mammal,M.och,3069,2018,WH,Unburned,Bison,2.47,-22.36
+Small mammal,P.man,3072,2018,TCR,Burned,No bison,5.68,-17.68
+Small mammal,P.man,3073,2018,CCWEX,Unburned,No bison,2.79,-25.35
+Small mammal,Z.hud,3081,2018,WH,Unburned,Bison,0.54,-18.03
+Small mammal,P.leu,3083,2018,HL,Burned,Bison,5.66,-23.55
+Small mammal,P.man,3084,2018,HF,Burned,Bison,6.27,-24.11
+Small mammal,P.man,3084,2018,HF,Burned,Bison,4.09,-24.71
+Small mammal,M.och,3085,2018,CCE,Unburned,No bison,4.58,-24.77
+Small mammal,P.man,3086,2018,TC,Burned,No bison,7.13,-14.32
+Small mammal,P.leu,3087,2018,HPW,Burned,Bison,3.61,-25.24
+Small mammal,P.man,3088,2018,SBEX2,Unburned,No bison,8.36,-11.52
+Small mammal,P.man,3089,2018,TCEX,Unburned,No bison,5.53,-24.97
+Small mammal,P.man,3089,2018,TCEX,Unburned,No bison,4.67,-24.68
+Small mammal,P.man,3091,2019,CCWEX,Unburned,No bison,2.61,-13.68
+Small mammal,P.leu,3092,2018,CCWEX,Unburned,No bison,6.86,-21.94
+Small mammal,P.leu,3093,2018,HL,Burned,Bison,5.51,-19.77
+Small mammal,P.man,3098,2018,CCW,Burned,No bison,5.84,-21.39
+Small mammal,P.man,3098,2018,CCW,Burned,No bison,3.54,-22.92
+Small mammal,P.man,3099,2018,CCW,Burned,No bison,3.38,-23.95
+Small mammal,M.och,3105,2018,TC,Burned,No bison,3.97,-26.02
+Small mammal,M.och,3105,2018,TC,Burned,No bison,4.19,-24.9
+Small mammal,P.leu,3113,2018,FC,Burned,No bison,5.3,-19.79
+Small mammal,P.leu,3114,2018,WH,Unburned,Bison,3.43,-24.95
+Small mammal,M.och,3115,2019,FC,Unburned,No bison,3.42,-27.73
+Small mammal,P.leu,3116,2018,HL,Burned,Bison,6.12,-10.76
+Small mammal,P.man,3121,2018,L,Unburned,Bison,9.53,-9.66
+Small mammal,P.man,3122,2018,CCE,Unburned,No bison,3.6,-24.47
+Small mammal,P.man,3122,2018,CCE,Unburned,No bison,2.62,-24.58
+Small mammal,P.man,3123,2018,FC,Burned,No bison,6.93,-19.43
+Small mammal,P.leu,3128,2018,CCWEX,Unburned,No bison,7.69,-24.02
+Small mammal,P.man,3130,2018,TCR,Burned,No bison,4.15,-22.36
+Small mammal,P.man,3131,2018,MUR,Burned,Bison,5.57,-18.53
+Small mammal,P.man,3133,2018,MUR,Burned,Bison,4.2,-20.99
+Small mammal,P.leu,3134,2018,HPW,Burned,Bison,6.4,-22.89
+Small mammal,P.leu,3135,2018,SBEX1,Unburned,No bison,5.43,-15.91
+Small mammal,P.man,3136,2018,CCWEX,Unburned,No bison,5.33,-21.72
+Small mammal,P.man,3136,2018,CCWEX,Unburned,No bison,4.19,-22.74
+Small mammal,P.man,3137,2018,CCWEX,Unburned,No bison,6.67,-19.76
+Small mammal,P.leu,3138,2018,HL,Burned,Bison,4.61,-23.94
+Small mammal,P.man,3140,2018,FC,Burned,No bison,6.28,-19.74
+Small mammal,P.man,3141,2018,CCW,Burned,No bison,3.15,-24.4
+Small mammal,Z.hud,3142,2018,WH,Unburned,Bison,2.8,-20.79
+Small mammal,P.leu,3143,2018,HL,Burned,Bison,3.05,-24.19
+Small mammal,P.man,3145,2018,CCW,Burned,No bison,5.38,-20.78
+Small mammal,P.leu,3146,2018,WH,Unburned,Bison,4.56,-23.96
+Small mammal,P.man,3147,2018,MUR,Burned,Bison,6.12,-21.05
+Small mammal,P.leu,3148,2018,WH,Unburned,Bison,3.38,-24.03
+Small mammal,M.och,3149,2018,TC,Burned,No bison,5.2,-24.75
+Small mammal,P.leu,3150,2018,TCEX,Unburned,No bison,8.75,-22.13
+Small mammal,P.man,3154,2018,HL,Burned,Bison,5.65,-22.37
+Small mammal,P.man,3154,2018,HL,Burned,Bison,3.61,-19.65
+Small mammal,P.man,3155,2018,TC,Burned,No bison,6.18,-20.83
+Small mammal,P.man,3156,2018,MU,Burned,Bison,3.93,-23.2
+Small mammal,P.man,3157,2018,MUR,Burned,Bison,5.39,-18.29
+Small mammal,P.man,3158,2018,TC,Burned,No bison,6.46,-24.11
+Small mammal,M.och,3159,2018,HL,Burned,Bison,2.47,-25.71
+Small mammal,P.leu,3161,2018,HL,Burned,Bison,3.56,-22.63
+Small mammal,P.leu,3162,2018,HPW,Burned,Bison,3.6,-22.43
+Small mammal,P.man,3165,2018,MUR,Burned,Bison,4.34,-20.32
+Small mammal,P.man,3165,2018,MUR,Burned,Bison,3.33,-22.2
+Small mammal,Z.hud,3166,2018,WH,Unburned,Bison,2.21,-17.51
+Small mammal,P.leu,3167,2018,TCEX,Unburned,No bison,4.8,-21.41
+Small mammal,P.man,3168,2018,TCR,Burned,No bison,7.43,-15.48
+Small mammal,P.man,3168,2018,TCR,Burned,No bison,6.74,-19.51
+Small mammal,P.man,3171,2018,MUR,Burned,Bison,7.56,-25.66
+Small mammal,P.man,3172,2018,WH,Unburned,Bison,4.91,-23.89
+Small mammal,P.man,3172,2018,WH,Unburned,Bison,4.84,-24.09
+Small mammal,P.man,3173,2018,SB,Unburned,No bison,5.13,-19.36
+Small mammal,M.mus,3174,2018,HL,Burned,Bison,14.51,-11.2
+Small mammal,Z.hud,3175,2018,WH,Unburned,Bison,3.34,-24.87
+Small mammal,P.man,3176,2018,CCEEX,Unburned,No bison,3.31,-25.04
+Small mammal,P.man,3179,2018,TC,Burned,No bison,8.13,-12.8
+Small mammal,P.man,3183,2018,CCWEX,Unburned,No bison,5.41,-20.88
+Small mammal,P.leu,3184,2018,TCEX,Unburned,No bison,6.01,-21.04
+Small mammal,P.leu,3185,2018,MUR,Burned,Bison,5.09,-20.93
+Small mammal,P.leu,3187,2018,HL,Burned,Bison,2.56,-23.15
+Small mammal,P.man,3188,2018,MUR,Burned,Bison,5.69,-18.56
+Small mammal,P.leu,3190,2018,WH,Unburned,Bison,3.87,-24.29
+Small mammal,P.man,3191,2018,CCW,Burned,No bison,3.67,-24.04
+Small mammal,P.man,3192,2018,TCEX,Unburned,No bison,7.01,-16.3
+Small mammal,P.man,3193,2018,CCWEX,Unburned,No bison,3.13,-23.37
+Small mammal,M.och,3195,2018,L,Unburned,Bison,3.15,-27.24
+Small mammal,M.och,3196,2018,TCR,Burned,No bison,3.4,-26.17
+Small mammal,P.man,3198,2018,FC,Burned,No bison,5.36,-19.94
+Small mammal,P.leu,3199,2018,WH,Unburned,Bison,3.86,-22.98
+Small mammal,P.man,3201,2018,CCEEX,Unburned,No bison,5.27,-17.19
+Small mammal,P.leu,3204,2018,HPN,Unburned,Bison,4.61,-21.97
+Small mammal,M.och,3205,2018,TCR,Burned,No bison,3.33,-27.23
+Small mammal,P.leu,3206,2018,MU,Burned,Bison,2.3,-24.4
+Small mammal,P.leu,3208,2018,MU,Burned,Bison,5.83,-19.81
+Small mammal,P.leu,3209,2018,SF,Unburned,No bison,5.97,-22.67
+Small mammal,P.leu,3210,2018,WH,Unburned,Bison,3.83,-23.32
+Small mammal,P.leu,3211,2018,HL,Burned,Bison,4.55,-22.99
+Small mammal,P.man,3215,2018,CCE,Unburned,No bison,5.65,-17.36
+Small mammal,P.man,3216,2018,HL,Burned,Bison,4.43,-22.05
+Small mammal,P.man,3218,2018,HF,Burned,Bison,2.45,-24.58
+Small mammal,P.man,3220,2018,SBEX1,Unburned,No bison,8.07,-19.04
+Small mammal,P.man,3222,2018,HF,Burned,Bison,6.28,-24.01
+Small mammal,P.leu,3223,2018,CCW,Burned,No bison,4.93,-22.25
+Small mammal,P.man,3706,2018,HF,Burned,Bison,4.9,-22.57
+Small mammal,P.man,3747,2017,SB,Unburned,No bison,2.75,-22.92
+Small mammal,P.leu,5235,2019,SB,Burned,No bison,8.19,-16.02
+Small mammal,P.man,6902,2019,TCR,Unburned,No bison,5.88,-20.7
+Small mammal,P.man,7643,2019,HPN,Unburned,Bison,5.66,-24.38
+Small mammal,P.leu,7655,2019,MU,Unburned,Bison,3.52,-24.74
+Small mammal,P.man,7656,2019,CCW,Unburned,No bison,4.26,-23.46
+Small mammal,P.man,7664,2019,SB,Burned,No bison,6.67,-15.28
+Small mammal,R.meg,7674,2019,FC,Unburned,No bison,4.43,-23.62
+Small mammal,P.man,7676,2019,TCR,Unburned,No bison,3.1,-23.37
+Small mammal,M.och,7680,2019,FC,Unburned,No bison,3.71,-21.95
+Small mammal,P.man,7683,2019,CCEE,Burned,No bison,5.91,-21.24
+Small mammal,P.man,7684,2019,SF,Burned,No bison,4.1,-18.89
+Small mammal,P.man,7691,2019,CCE,Burned,No bison,5.8,-20.79
+Small mammal,P.leu,7701,2019,TCR,Unburned,No bison,6.62,-24.55
+Small mammal,P.leu,7701,2019,TCR,Unburned,No bison,5.55,-24.29
+Small mammal,P.man,7712,2019,CCEE,Burned,No bison,6.17,-20.94
+Small mammal,P.man,7717,2019,MUR,Burned,Bison,3.72,-23.03
+Small mammal,R.meg,7722,2019,TCE,Unburned,No bison,4.31,-23.21
+Small mammal,P.man,7730,2019,TCR,Unburned,No bison,4.7,-21.08
+Small mammal,P.man,7733,2019,TC,Unburned,No bison,7.51,-20.23
+Small mammal,P.man,8548,2018,CCW,Burned,No bison,8.83,-10.15
+Small mammal,P.man,8548,2018,CCW,Burned,No bison,8.21,-11.24
+Small mammal,P.man,8556,2018,HL,Burned,Bison,2.88,-21.13
+Small mammal,P.leu,8573,2018,L,Unburned,Bison,6.59,-22.47
+Small mammal,P.man,8597,2018,TCR,Burned,No bison,8.38,-9.95
+Small mammal,P.man,8615,2017,CCW,Unburned,No bison,4.56,-21.87
+Small mammal,P.man,8658,2017,CCW,Unburned,No bison,5.75,-20.94
+Small mammal,Z.hud,8703,2017,CCE,Burned,No bison,5.57,-21.16
+Small mammal,P.man,8767,2018,TC,Burned,No bison,7.72,-10.52
+Small mammal,P.man,9077,2019,CCEE,Burned,No bison,11.02,-24.81
+Small mammal,P.man,9080,2019,CCW,Unburned,No bison,4.15,-24.31
+Small mammal,P.man,9089,2019,CCEE,Burned,No bison,11.05,-24.35
+Small mammal,P.man,9130,2019,CCEE,Burned,No bison,6.47,-22.86
+Small mammal,P.man,9985,2023,CCWE,Burned,No bison,2.90,-15.85
+Small mammal,P.leu,7640,2019,TC,Burned,No bison,4.66,-23.70
+Small mammal,P.leu,7666,2019,TCE,Burned,No bison,5.55,-22.83
+Small mammal,P.leu,9912,2023,HL,Burned,Bison,4.01,-23.78
+Small mammal,P.leu,0083,2023,MU,Burned,Bison,1.48,-25.14
+Small mammal,P.leu,0000,2023,HL,Burned,Bison,5.64,-25.07
+Small mammal,P.leu,7689,2019,HPW,Unburned,Bison,4.88,-23.13
+Small mammal,P.leu,0037,2023,HL,Burned,Bison,4.73,-19.55
+Small mammal,P.leu,0101,2023,HL,Burned,Bison,2.11,-25.09
+Small mammal,P.leu,0037,2023,HL,Burned,Bison,2.12,-16.72
+Small mammal,P.leu,9934,2023,HL,Burned,Bison,1.90,-25.89
+Small mammal,P.leu,0041,2023,HL,Burned,Bison,3.70,-24.43
+Small mammal,P.leu,0064,2023,HL,Burned,Bison,4.03,-23.79
+Small mammal,P.leu,9564,2019,SF,Burned,No bison,5.31,-24.13
+Small mammal,P.leu,0064,2023,HL,Burned,Bison,1.43,-24.86
+Small mammal,P.leu,9978,2023,HL,Burned,Bison,2.29,-24.90
+Small mammal,P.leu,0018,2023,MU,Burned,Bison,1.64,-25.66
+Small mammal,P.leu,7703,2019,TCE,Burned,No bison,5.41,-22.68
+Small mammal,P.leu,9821,2022,WH,Burned,Bison,1.09,-14.24
+Small mammal,M.och,7667,2019,CCW,Burned,No bison,4.69,-25.74
+Small mammal,M.och,7699,2019,CCEE,Burned,No bison,2.95,-19.32
+Small mammal,M.och,9988,2023,HPW,Unburned,Bison,3.88,-23.66
+Small mammal,M.och,9935,2023,HPW,Unburned,Bison,2.86,-23.94
+Small mammal,M.och,0292,2020,WH,,Bison,2.46,-26.47
+Small mammal,M.och,no tag #,2019,FC,Unburned,No bison,3.97,-21.85
+Small mammal,M.och,2358,2019,CCEE,Burned,No bison,3.94,-24.39
+Small mammal,M.och,9880,2023,HPW,Unburned,Bison,2.67,-25.96
+Small mammal,M.och,0017,2023,CCW,Burned,No bison,3.61,-24.89
+Small mammal,M.och,2411,2019,FC,Unburned,No bison,4.17,-22.06
+Small mammal,M.och,9953,2023,HPW,Unburned,Bison,3.38,-23.46
+Small mammal,M.och,7647,2019,TCR,Unburned,No bison,4.42,-27.16
+Small mammal,M.och,0149,2023,HPW,Unburned,Bison,3.80,-24.77
+Small mammal,M.och,0038,2023,HPW,Unburned,Bison,3.32,-23.48
+Small mammal,M.och,9990,2019,HPW,Unburned,Bison,4.35,-24.82
+Small mammal,M.och,9778,2023,HPW,Unburned,Bison,3.43,-23.78
+Small mammal,M.och,9891,2023,HPW,Unburned,Bison,3.73,-24.77
+Small mammal,M.och,0118,2023,HPW,Unburned,Bison,4.23,-24.60
+Small mammal,M.och,9861,2023,HPW,Unburned,Bison,4.12,-23.48
+Small mammal,M.och,0015,2023,HPW,Unburned,Bison,3.37,-22.57
+Small mammal,Z. hud,0054,2023,CCWE,Burned,No bison,5.83,-25.95
+Small mammal,R. meg,no tag #,2019,TCR,Unburned,No bison,5.03,-18.84
+Small mammal,Z. hud,0033,2023,MUR,Burned,Bison,4.57,-23.48
+Small mammal,Z. hud,9917,2023,MUR,Burned,Bison,4.38,-23.60
+Small mammal,Z. hud,0162,2023,MU,Burned,Bison,6.45,-25.62
+Small mammal,Z. hud,9926,2023,MUR,Burned,Bison,2.73,-19.52
+Small mammal,Z. hud,0102,2023,MUR,Burned,Bison,4.00,-23.96
+Small mammal,Z. hud,0027,2023,MU,Burned,Bison,3.18,-23.63

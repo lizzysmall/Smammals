@@ -1,0 +1,334 @@
+﻿Type,Type_specific,Species,Tag,Location of capture,d15N,d13C,percN,percC,Collector,Year collected,Yr_restore,Rest_age,Burn,Sex,Age,Repro,Weight_g,tl_mm,rhf_mm,bl_mm,month,day,Bison,C_N
+Small mammal,,I.tri,1264,FC,4.38,-24.01,14,45.8,Sarah N,2018,2006.5,11.5,Burned,F,J,NA,121,87,34,120,7,25,No bison,3.271428571
+Small mammal,Ground squirrel,I.tri,1414,MUR,2.98,-21.02,14.01,44.19,Kirstie,2016,C,50,Unburned,M,SA,NA,180,105,34,NA,6,12,Bison,3.154175589
+Small mammal,Ground squirrel,I.tri,1440,CCW,2.97,-23.49,14.81,44.13,Kirstie,2017,2008,9,Unburned,M,A,NA,NA,102,35,NA,4,13,No bison,2.979743417
+Small mammal,,I.tri,1555,HF,5.96,-23.25,12.79,43.84,Angelica B,2018,2013,5,Burned,F,J,NA,134,92,32,135,7,26,Bison,3.427677873
+Small mammal,,P.man,2048,CCE,3.98,-21.48,12.97,45.56,Danielle D,2017,2007,10,Burned,M,SA,NA,33,57,18,55,6,16,No bison,3.512721665
+Small mammal,,P.man,2071,SBEX1,3.84,-22.31,13.68,44.79,Danielle D,2018,2009,9,Unburned,F,A,PL,41,55,16,65,4,21,No bison,3.274122807
+Small mammal,Mouse,R.meg,2082,TC,3.7,-20.36,12.75,48.27,Kirstie,2017,2002.5,14.5,Unburned,M,A,NA,24,68,15,49,8,3,No bison,3.785882353
+Small mammal,,P.man,2098,HPN,5.76,-12.69,13.76,44.32,Angelica B,2017,2012,5,Burned,F,SA,NA,28.5,55,17,48,6,18,Bison,3.220930233
+Small mammal,,P.man,2134,HF,5.07,-24.76,13.51,43.86,Danielle D,2017,2013,4,Burned,M,SA,NA,32.5,49,18,51,6,17,Bison,3.246484086
+Small mammal,,P.leu,2150,SBEX2,5.41,-23.23,13.51,44.88,Danielle D,2017,2009,8,Unburned,F,A,PL,41,68,20,66,4,17,No bison,3.321983716
+Small mammal,,P.man,2151,SB,6.03,-12.71,13.39,47.12,Danielle D,2017,2009,8,Unburned,F,A,P,25.5,48,16,56,4,17,No bison,3.519044063
+Small mammal,,P.man,2157,AG,8.05,-12.74,13.26,46.36,Danielle D,2017,PC,0,Unburned,M,SA,NA,33,54,16,64,4,16,No bison,3.496229261
+Small mammal,,P.man,2158,SB,5.36,-15.18,13.46,46.44,Danielle D,2017,2009,8,Unburned,F,A,NA,26,51,16,59,4,17,No bison,3.450222883
+Small mammal,,P.man,2162,SBEX1,7.33,-11.53,13.39,46.05,Danielle D,2017,2009,8,Unburned,M,SA,NA,29,43.5,16,58,4,15,No bison,3.439133682
+Small mammal,,P.man,2171,SBEX1,4.13,-20.79,13.59,46.2,Danielle D,2017,2009,8,Unburned,F,A,P,35,55,16.5,62,4,17,No bison,3.399558499
+Small mammal,,M.och,2177,SBEX1,8.12,-24.93,14.05,44.29,Danielle D,2017,2009,8,Unburned,F,A,P,48,36,18,77,4,15,No bison,3.152313167
+Small mammal,,M.och,2179,SBEX1,4.26,-25.95,11.32,42.1,Danielle D,2017,2009,8,Unburned,M,A,NA,57,48,20,82,4,16,No bison,3.719081272
+Small mammal,Mouse,P.leu,2184,TCR,5.59,-24.3,13.96,45.07,Kirstie,2017,C,50,Unburned,M,A,NA,41,75.5,18,79,4,17,No bison,3.228510029
+Small mammal,,P.leu,2186,TCEX,3.37,-23.73,13.07,46.44,Danielle D,2017,2002.5,14.5,Unburned,M,A,NA,38,70,19,64,4,16,No bison,3.55317521
+Small mammal,,P.man,2191,SBEX1,4.15,-17.64,13.84,44.36,Danielle D,2017,2009,8,Unburned,F,A,PL,31,52,15,61,4,17,No bison,3.205202312
+Small mammal,,P.man,2195,SBEX1,4.35,-19.15,13.64,46.13,Danielle D,2017,2009,8,Unburned,F,A,NA,29.5,44,15,56,4,17,No bison,3.381964809
+Small mammal,,P.man,2197,TCEX,3.19,-20.68,12.66,46.85,Danielle D,2017,2002.5,14.5,Unburned,M,A,NA,36,51,16.5,63,4,16,No bison,3.700631912
+Small mammal,,P.man,2199,AG,6.89,-10.38,13.52,46.13,Danielle D,2017,PC,0,Unburned,M,A,NA,36,51,15.5,58,4,16,No bison,3.411982249
+Small mammal,,P.leu,2202,SBEX1,3.44,-20.34,12.91,45.78,Danielle D,2017,2009,8,Unburned,M,SA,NA,25,62,16.5,49,4,16,No bison,3.546088304
+Small mammal,,P.leu,2207,TCR,3.63,-23.83,13.22,45.73,Danielle D,2017,C,50,Unburned,F,A,PL,44,73,19,74,6,10,No bison,3.459152799
+Small mammal,,P.leu,2209,TCEX,7.45,-15.43,13.47,45.56,Danielle D,2017,2002.5,14.5,Unburned,M,A,NA,39,74.5,20,73,4,17,No bison,3.382331106
+Small mammal,Vole,M.och,2220,SB,5.54,-18.56,12.54,46.9,Kirstie,2017,2009,8,Unburned,M,A,NA,53,41,17,84,4,15,No bison,3.740031898
+Small mammal,,P.man,2221,TCEX,5.94,-14.49,13.55,47.47,Danielle D,2017,2009,8,Unburned,F,A,P,33,54,17,60,4,18,No bison,3.503321033
+Small mammal,,P.man,2222,SBEX1,5.96,-15.18,14.97,50.44,Danielle D,2017,2009,8,Unburned,M,SA,NA,22,49,16,54,4,17,No bison,3.369405478
+Small mammal,Mouse,R.meg,2223,TCR,3.78,-17.55,12.02,40.91,Kirstie,2017,C,50,Unburned,F,NA,NA,23,60.5,15,55,4,17,No bison,3.403494176
+Small mammal,,P.man,2224,SBEX1,4.59,-21.55,13.03,45.11,Danielle D,2017,2009,8,Unburned,M,A,NA,33,55,16,67,4,15,No bison,3.462010744
+Small mammal,,M.och,2225,TC,3.01,-22.72,11.61,44.28,Danielle D,2017,2002.5,14.5,Unburned,F,A,L,51,37,18,82.5,4,16,No bison,3.813953488
+Small mammal,,P.man,2227,AG,6.03,-13.21,12.93,44.92,Danielle D,2017,PC,0,Unburned,M,A,NA,35.5,54,17,60,4,16,No bison,3.474091261
+Small mammal,Mouse,P.leu,2230,SB,5.91,-18.38,13.71,45.34,Kirstie,2017,2009,8,Unburned,F,A,NA,39,62.5,NA,63,4,16,No bison,3.307075128
+Small mammal,,P.man,2231,SB,7.02,-9.27,13.56,45.52,Danielle D,2017,2009,8,Unburned,F,A,P,30,47,15,58,4,17,No bison,3.356932153
+Small mammal,,P.leu,2234,TCR,8.18,-11.52,13.23,44.3,Danielle D,2017,C,50,Unburned,F,A,P,27,65,18,56,6,10,No bison,3.348450491
+Small mammal,Vole,M.och,2239,SBEX1,3.51,-26.03,13.09,45.76,Kirstie,2017,2009,8,Unburned,F,A,PL,58,34,19,94,4,15,No bison,3.495798319
+Small mammal,Mouse,R.meg,2241,TCR,1.96,-12.21,13.24,46.29,Kirstie,2017,C,50,Unburned,M,SA,NA,22,61,15,51.5,4,17,No bison,3.496223565
+Small mammal,Mouse,P.man,2242,SB,7.06,-11.53,13.44,47.59,Kirstie,2017,2009,8,Unburned,F,A,P,31,47,15,53,4,16,No bison,3.540922619
+Small mammal,,M.och,2245,TCEX,4.09,-26.55,12.24,46.27,Danielle D,2017,2002.5,14.5,Unburned,F,A,NA,36,30,17,62,4,16,No bison,3.780228758
+Small mammal,,M.och,2247,SBEX1,3.39,-26.43,11.95,46.81,Danielle D,2017,2009,8,Unburned,M,A,NA,48,5,16.5,70,4,16,No bison,3.917154812
+Small mammal,,P.man,2248,CCEEX,4.17,-23.19,12.82,44.92,Danielle D,2017,2007,10,Unburned,F,A,L,34,54,16.5,53,4,14,No bison,3.503900156
+Small mammal,,P.leu,2250,SBEX1,4.92,-13.85,13.48,45.22,Danielle D,2017,2009,8,Unburned,F,A,P,36,61,17,68.5,4,18,No bison,3.354599407
+Small mammal,,P.man,2252,HPN,2.18,-12.77,13.27,44.99,Danielle D,2017,2012,5,Burned,M,A,NA,32,50,15,58.5,4,13,Bison,3.390354182
+Small mammal,,M.och,2256,SB,3.46,-26.72,12.4,44.75,Danielle D,2017,2009,8,Unburned,F,SA,NA,27.5,25,15.5,61,4,18,No bison,3.608870968
+Small mammal,,P.man,2258,HPW,6.63,-17.26,13.45,43.95,Danielle D,2018,2008,10,Burned,F,A,NA,31,52,22,56,4,13,Bison,3.267657993
+Small mammal,,P.leu,2261,CCW,3.85,-14.8,13.1,45.67,Danielle D,2017,2008,9,Unburned,M,SA,NA,20,60,14,46,4,14,No bison,3.486259542
+Small mammal,,P.leu,2263,SF,6.66,-13.62,12.64,45.1,Danielle D,2018,2001,17,Unburned,F,SA,NA,23,58,17,49,4,13,No bison,3.568037975
+Small mammal,Mouse,P.leu,2266,SBEX2,9.61,-17.28,13.92,45.51,Kirstie,2017,2009,8,Unburned,F,A,P,41,79,20,65,4,15,No bison,3.269396552
+Small mammal,,M.och,2270,HL,4.87,-22.33,13.11,43.7,Danielle D,2018,2001,17,Burned,F,A,NA,51,32,19,84,4,13,Bison,3.333333333
+Small mammal,,P.man,2273,CCE,5.58,-17.17,13.31,45.17,Danielle D,2017,2007,10,Burned,F,A,PL,36,55,16,61,4,14,No bison,3.393688956
+Small mammal,,P.man,2274,SBEX2,4,-23.51,13.45,45.59,Danielle D,2017,2009,8,Unburned,M,A,NA,35,44,15.5,62,4,15,No bison,3.389591078
+Small mammal,,P.leu,2276,CCEEX,8.58,-12.4,13.3,45.8,Danielle D,2017,2007,10,Unburned,M,A,NA,37,63,16,64,4,13,No bison,3.443609023
+Small mammal,,P.man,2287,CCEEX,6.21,-14.67,13.81,47.11,Danielle D,2017,2007,10,Unburned,F,SA,NA,31,30,15,54,4,13,No bison,3.411296162
+Small mammal,,P.man,2289,AG,7.02,-10.89,12.61,42.28,Danielle D,2017,PC,0,Unburned,F,A,PL,39,46.5,16,64,4,17,No bison,3.352894528
+Small mammal,,P.man,2291,HPN,5.64,-22.3,14.08,45.03,Sarah N,2018,2012,6,Unburned,M,SA,NA,27,56,18,53,7,25,Bison,3.198153409
+Small mammal,,P.man,2298,HF,5.69,-24.99,13.15,44.11,Danielle D,2017,2013,4,Burned,F,A,PL,32.5,52,15,58.5,4,13,Bison,3.354372624
+Small mammal,,P.man,2299,CCE,1.51,-19.71,13.09,44.32,Danielle D,2017,2007,10,Burned,M,A,P,35.5,56,16,55,4,13,No bison,3.38579068
+Small mammal,,P.man,2302,CCEEX,3.74,-23.49,13.05,43.06,Danielle D,2017,2007,10,Unburned,M,A,NA,30,43,14,53,4,14,No bison,3.299616858
+Small mammal,,P.man,2304,TCEX,5.73,-15.57,13.46,44.6,Danielle D,2017,2002.5,14.5,Unburned,M,A,NA,34,49,16.5,51,4,15,No bison,3.313521545
+Small mammal,,,2306,,3.89,-19.69,13.35,44.05,Danielle D,2017,,,,,,,,,,,,,,
+Small mammal,,P.man,2310,AG,8.95,-10.4,13.31,45.07,Danielle D,2017,PC,0,Unburned,M,A,NA,29,54,16.5,60,4,17,No bison,3.386175808
+Small mammal,,P.leu,2313,HL,5.42,-22.87,14.27,44.96,Sarah N,2018,2001,17,Burned,M,A,NA,35.5,79,20,64,7,26,Bison,3.150665732
+Small mammal,Vole,M.och,2316,HF,6.29,-29.03,13.41,47.89,Kirstie,2017,2013,4,Burned,M,SA,NA,27,20,15.5,54,4,14,Bison,3.571215511
+Small mammal,,P.man,2317,HF,6.1,-23.09,13.34,44.05,Sarah N,2018,2013,5,Burned,M,A,NA,31.5,49,19,49,4,13,Bison,3.302098951
+Small mammal,,P.man,2318,TCR,8.32,-11.45,13.91,47.17,Danielle D,2018,C,50,Burned,F,SA,NA,27,49,16,56,4,22,No bison,3.39108555
+Small mammal,,P.leu,2320,CCW,7.72,-26.37,12.68,45.24,Danielle D,2017,2008,9,Unburned,M,SA,NA,23,63,17,45,4,11,No bison,3.567823344
+Small mammal,,P.man,2321,FC,5.63,-23.73,13.64,45.22,Sarah N,2018,2006.5,11.5,Burned,F,A,L,36.5,63,16,62,6,9,No bison,3.315249267
+Small mammal,,P.man,2325,AG,8.87,-13.5,13.15,44.92,Danielle D,2017,PC,0,Unburned,M,SA,NA,26,44,15,57,4,17,No bison,3.415969582
+Small mammal,,P.leu,2327,TCEX,8.08,-16.43,13.38,45.45,Danielle D,2017,2002.5,14.5,Unburned,F,A,P,36,72,16,61,4,15,No bison,3.396860987
+Small mammal,,P.man,2330,HPN,5.66,-23.7,13.36,44.61,Danielle D,2017,2012,5,Burned,F,A,PL,45,58,16,59,4,13,Bison,3.339071856
+Small mammal,,P.leu,2332,TC,3.21,-16.45,12.6,46.24,Danielle D,2017,2002.5,14.5,Unburned,M,SA,NA,24.5,61,14,55.5,4,15,No bison,3.66984127
+Small mammal,,P.man,2333,TC,6.41,-12.62,13.69,44.28,Danielle D,2017,2002.5,14.5,Unburned,M,SA,NA,31,50,15,59,4,15,No bison,3.234477721
+Small mammal,,M.och,2339,L,5.67,-26.42,13.03,44.41,Danielle D,2018,2011,7,Unburned,F,A,NA,49,51,21,80,4,13,Bison,3.408288565
+Small mammal,,P.man,2345,SB,3.82,-22.18,12.83,43.17,Danielle D,2017,2009,8,Unburned,M,A,NA,32.5,58,17,61,4,17,No bison,3.36477007
+Small mammal,Mouse,P.man,2347,HF,6.31,-25.17,13.4,46.26,Kirstie,2017,2013,4,Burned,F,A,PL,37,48.5,15,52,4,13,Bison,3.452238806
+Small mammal,,P.man,2351,CCW,4.4,-19.8,13.4,45.39,Angelica B,2019,2008,11,Unburned,M,A,NA,29,53,15,48,6,21,No bison,3.387313433
+Small mammal,,P.leu,2352,MU,4.12,-24.38,13.57,45.11,Sarah N,2019,1986.5,32.5,Unburned,M,A,NA,37,75,18,63,8,14,Bison,3.324244657
+Small mammal,,P.man,2354,CCWE,5.36,-23.44,13.73,45.78,Angelica B,2019,2008,11,Unburned,F,A,PL,27,54,14.5,50,6,20,No bison,3.334304443
+Small mammal,,P.man,2357,TCR,6.29,-18.07,13.64,44.31,Sarah N,2019,C,50,Unburned,F,A,PL,43,60,17,62,8,15,No bison,3.248533724
+Small mammal,,P.man,2359,SBEX1,6.24,-20.38,13.69,45.32,Angelica B,2019,2009,10,Burned,M,A,NA,26,48,16,58,6,19,No bison,3.310445581
+Small mammal,,P.man,2360,MUR,,-22.42,11.9,42.44,Angelica B,2019,C,50,Burned,M,SA,NA,25,44,15,54,6,15,Bison,3.566386555
+Small mammal,,P.leu,2362,TCR,5.26,-24.16,13.36,45.95,Angelica B,2019,C,50,Unburned,M,A,NA,27,67,19,47,6,16,No bison,3.439371257
+Small mammal,,P.man,2363,SBEX2,3.51,-23.4,13.68,44.47,Danielle D,2016,2009,7,Unburned,M,SA,NA,32,52,18,49,10,7,No bison,3.250730994
+Small mammal,,P.man,2365,CCEE,3.91,-19.86,12.44,45.61,Angelica B,2019,2007,12,Burned,F,A,PL,30,55,16,54,6,19,No bison,3.666398714
+Small mammal,,P.man,2367,CCWE,5.07,-22.96,13.25,45.67,Angelica B,2019,2008,11,Unburned,F,A,PL,23,52,16,47,6,19,No bison,3.446792453
+Small mammal,,P.man,2368,CCW,5.29,-23.28,13.48,45.07,Angelica B,2019,2008,11,Unburned,F,A,L,31,51,15,54,6,21,No bison,3.34347181
+Small mammal,,P.man,2372,CCWE,5.48,-24.22,12.97,46.48,Angelica B,2019,2008,11,Unburned,F,A,NA,27,51,16,62,6,18,No bison,3.583654588
+Small mammal,,P.man,2374,SF,6.34,-24.14,13.11,45.81,Angelica B,2019,2001,18,Burned,M,A,NA,28,61,16,53,6,13,No bison,3.494279176
+Small mammal,,P.man,2375,HPN,4.24,-24.94,13.99,47.18,Sarah N,2019,2012,7,Unburned,F,A,NA,26,46.5,16,48,8,12,Bison,3.372408863
+Small mammal,,P.man,2377,CCWE,6.04,-23.02,13.43,45.97,Angelica B,2019,2008,11,Unburned,M,SA,NA,23,49,15.5,47,6,20,No bison,3.42293373
+Small mammal,,P.man,2378,CCW,4.75,-23.66,12.51,45.15,Angelica B,2019,2008,11,Unburned,F,A,PL,31,50.5,15,55,6,21,No bison,3.60911271
+Small mammal,,P.leu,2380,WH,4.19,-22.93,12.76,43.75,Angelica B,2019,1992,27,Burned,F,A,NA,27,65,18,50,6,17,Bison,3.428683386
+Small mammal,,P.man,2382,SB,3.97,-18.77,13.84,43.82,Danielle D,2016,2009,7,Burned,M,SA,NA,30,51,15.5,50,10,7,No bison,3.166184971
+Small mammal,,P.man,2389,HPN,5.55,-24.73,13.71,46.12,Angelica B,2019,2012,7,Unburned,M,A,NA,24,47,15,49,6,12,Bison,3.363967907
+Small mammal,,R.meg,2390,FC,6.26,-23.95,13.46,45.45,Sarah N,2019,2006.5,12.5,Unburned,F,A,L,18,63,14,40,8,16,No bison,3.333333333
+Small mammal,,R.meg,2390,FC,7.22,-20.9,13.5,45,Sarah N,2019,2006.5,12.5,Unburned,F,A,L,18,63,14,40,8,16,No bison,3.37667162
+Small mammal,,P.man,2393,FC,0.45,-11.73,12.64,44.34,Angelica B,2019,2006.5,12.5,Unburned,M,SA,NA,20.5,61,18,49,6,17,No bison,3.507911392
+Small mammal,,P.man,2396,SB,7.54,-18.69,13.68,45.4,Angelica B,2019,2009,10,Burned,F,A,L,26,50,15,60,6,20,No bison,3.31871345
+Small mammal,,P.leu,2397,L,5.43,-21.18,13.4,44.86,Danielle D,2017,2011,6,Burned,M,A,NA,35,67,19,56,4,10,Bison,3.347761194
+Small mammal,,P.man,2402,CCW,4.18,-19.85,13.33,45.23,Angelica B,2019,2008,11,Unburned,M,A,NA,29,54,15,53,6,21,No bison,3.393098275
+Small mammal,,P.man,2405,CCW,5.78,-20.28,13.55,45.38,Angelica B,2019,2008,11,Unburned,F,A,PL,32,50,14,52,6,21,No bison,3.349077491
+Small mammal,Mouse,Z.hud,2406,WH,0.95,-20.5,13.52,49.01,Kirstie,2016,1992,24,Unburned,F,J,NA,30,101,29,55,9,29,Bison,3.625
+Small mammal,,P.man,2412,SBEX2,4.35,-18.8,12.17,45.48,Angelica B,2019,2009,10,Burned,M,A,NA,26,51,17,64,6,18,No bison,3.73705834
+Small mammal,,P.man,2417,CCEE,5.47,-22.81,13.39,45.84,Angelica B,2019,2007,12,Burned,M,A,NA,27,46,15.5,50,6,21,No bison,3.423450336
+Small mammal,,P.man,2419,TCE,5.28,-13.96,12.92,44.7,Angelica B,2019,2002.5,16.5,Unburned,M,A,NA,30,46,15,51.5,6,16,No bison,3.459752322
+Small mammal,,P.man,2425,SBEX1,6.17,-17.68,13.49,46.01,Angelica B,2019,2009,10,Burned,M,SA,NA,20,39,16,49,6,19,No bison,3.410674574
+Small mammal,,P.man,2426,TC,6.85,-19.73,12.99,43.42,Sarah N,2019,2002.5,16.5,Unburned,F,A,P,30.5,54,16,48,8,17,No bison,3.342571209
+Small mammal,,P.man,2428,CCE,7.6,-21.58,13.54,44.75,Sarah N,2019,2007,12,Burned,M,A,NA,29,54,16.5,56,6,21,No bison,3.305022157
+Small mammal,,P.leu,2430,WH,4.68,-23.78,13.39,45.94,Angelica B,2019,1992,27,Burned,M,A,NA,24,72,18,52,6,17,Bison,3.430918596
+Small mammal,,P.man,2431,SBEX2,6.37,-19.55,13.53,46.26,Angelica B,2019,2009,10,Burned,F,A,PL,28,55,17,52,6,18,No bison,3.419068736
+Small mammal,,P.leu,2434,WH,3.82,-23.35,13.03,46.72,Angelica B,2019,1992,27,Burned,F,A,PL,35,65,17,52,6,17,Bison,3.585571757
+Small mammal,,P.man,2435,TC,7.28,-12.32,13.53,45.14,Angelica B,2019,2002.5,16.5,Unburned,F,A,PL,36,55,15.5,61,6,17,No bison,3.336289727
+Small mammal,,P.man,2436,CCW,5.45,-21.05,12.84,45.32,Angelica B,2019,2008,11,Unburned,M,A,NA,24,53,16,52,6,18,No bison,3.529595016
+Small mammal,,P.man,2439,SF,6.32,-21.57,13.29,45.09,Angelica B,2019,2001,18,Burned,M,A,NA,21,51,15,46,6,13,No bison,3.392776524
+Small mammal,,P.man,2440,TCR,6.01,-22.46,13.91,44.94,Sarah N,2019,C,50,Unburned,F,A,NA,24.5,57,17,48,8,17,No bison,3.230769231
+Small mammal,,P.man,2441,SBEX2,4.05,-22.39,13.08,43.62,Angelica B,2019,2009,10,Burned,F,A,PL,26,58,15,47,6,20,No bison,3.334862385
+Small mammal,,P.man,2443,CCWE,3.07,-20.63,13.49,43.44,Angelica B,2019,2008,11,Unburned,M,A,NA,31.5,38,15,55,6,21,No bison,3.220163084
+Small mammal,,P.leu,2445,WH,2.74,-25.08,13.17,43.93,Angelica B,2019,1992,27,Burned,M,A,NA,33,73,18.5,56,6,15,Bison,3.335611238
+Small mammal,,R.meg,2448,TCR,3.33,-23.75,13.63,45.02,Sarah N,2019,C,50,Unburned,F,A,NA,17.5,61,16,43,8,17,No bison,3.30300807
+Small mammal,,P.leu,2514,HL,5.13,-15.7,13.71,45.38,Angelica B,2016,2001,15,Unburned,F,A,L,38,79,18,69,8,3,Bison,3.309992706
+Small mammal,Mouse,R.meg,2613,HPW,8.77,-16.74,13.92,46.29,Kirstie,2016,2008,8,Unburned,F,A,NA,29,72,16,NA,6,9,Bison,3.325431034
+Small mammal,,P.man,2729,SBEX1,8.14,-15.2,13.94,46.61,Sarah N,2018,2009,9,Unburned,M,A,NA,28.5,48,18,49,8,2,No bison,3.343615495
+Small mammal,,P.man,2923,SB,5.5,-9.93,13.51,44.83,Angelica B,2019,2009,10,Burned,M,A,NA,32.5,50,14,59,4,8,No bison,3.318282754
+Small mammal,,P.man,2924,HPN,4.32,-23.84,13.24,44.65,Angelica B,2019,2012,7,Unburned,M,A,NA,31,52,14.5,56,4,15,Bison,3.372356495
+Small mammal,,P.man,2926,TC,5.78,-11.24,13.52,45.09,Angelica B,2019,2002.5,16.5,Unburned,M,A,NA,35.5,48,16,60,4,8,No bison,3.335059172
+Small mammal,,P.leu,2930,TCEX,6.49,-18.44,13.56,47.36,Angelica B,2018,2002.5,15.5,Unburned,F,A,L,43,80,21,66,10,3,No bison,3.492625369
+Small mammal,,P.man,2932,TC,8.44,-10.43,13.5,45.07,Danielle D,2018,2002.5,15.5,Burned,F,A,L,30,55,16,69.5,4,22,No bison,3.338518519
+Small mammal,,P.leu,2936,WH,2.25,-21.4,13.19,43.57,Angelica B,2019,1992,27,Burned,M,A,NA,35,72.5,18,72,4,25,Bison,3.303260045
+Small mammal,,P.leu,2937,TCEX,7.75,-17.74,13.62,45.46,Danielle D,2018,2002.5,15.5,Unburned,F,A,NA,37,76,21,60,4,22,No bison,3.33773862
+Small mammal,,P.leu,2938,HL,4.87,-23.96,14.07,45.37,Sarah N,2018,2001,17,Burned,F,A,NA,31.5,65,20,61,7,26,Bison,3.224591329
+Small mammal,,R.meg,2939,FC,5.01,-26.57,9.74,55.8,Sarah N,2019,2006.5,12.5,Unburned,M,SA,NA,17,62,15,38,8,17,No bison,5.728952772
+Small mammal,,P.man,2940,FC,5.54,-18.07,15.29,45.25,Sarah N,2018,2006.5,11.5,Burned,M,SA,NA,29.5,58,17,54,7,25,No bison,3.358877086
+Small mammal,,P.man,2940,FC,5.59,-18.77,13.18,44.27,Angelica B,2018,2006.5,11.5,Burned,M,SA,NA,29.5,58,17,54,7,25,No bison,2.959450621
+Small mammal,,P.man,2941,L,2.3,-12.65,13.45,44.49,Angelica B,2019,2011,8,Burned,M,A,NA,27,45,15,55,4,23,Bison,3.307806691
+Small mammal,,P.man,2944,SB,7.22,-21.04,13.51,45.84,Angelica B,2019,2009,10,Burned,M,SA,NA,25,44,14,53,4,9,No bison,3.393042191
+Small mammal,,P.man,2947,TC,8.36,-10.84,13.35,45.46,Danielle D,2018,2002.5,15.5,Burned,M,A,NA,31,49,17,62,4,21,No bison,3.405243446
+Small mammal,,P.leu,2954,TCR,2.72,-17.25,12.21,42.36,Angelica B,2019,C,50,Unburned,M,A,NA,35,64,20,66,4,8,No bison,3.469287469
+Small mammal,,P.man,2955,L,8.51,-24.13,12.84,45.2,Angelica B,2019,2011,8,Burned,M,A,NA,26,44,14,52,6,12,Bison,3.520249221
+Small mammal,,P.man,2959,CCE,5.01,-20.06,13.57,45.02,Angelica B,2019,2007,12,Burned,M,A,NA,27,40,15,51,4,13,No bison,3.31761238
+Small mammal,,P.leu,2960,WH,3.92,-23.26,13.5,45.6,Angelica B,2019,1992,27,Burned,M,SA,NA,26,71,17,56,6,14,Bison,3.377777778
+Small mammal,,M.och,2964,WH,3,-25.34,12.22,45.04,Danielle D,2018,1992,26,Unburned,F,A,NA,42,36,22,65,4,18,Bison,3.685761047
+Small mammal,,,2965,,5,-18.06,11.81,48.35,Angelica B,2019,,,,,,,,,,,,,,
+Small mammal,,P.leu,2970,WH,2.76,-21.26,15.36,49.49,Danielle D,2018,1992,26,Unburned,M,A,NA,37,66.5,21,64,4,18,Bison,3.222005208
+Small mammal,,P.man,2972,HL,6.03,-21.61,14.19,45.34,Sarah N,2018,2001,17,Burned,F,A,NA,32.5,57,18,55,7,26,Bison,3.195207893
+Small mammal,,P.leu,2973,HPW,2.37,-23.95,13.16,45.37,Angelica B,2018,2008,10,Burned,F,A,NA,34.5,72,21,62,7,24,Bison,3.447568389
+Small mammal,,P.leu,2973,HPW,4.49,-23.46,13.92,46.41,Angelica B,2018,2008,10,Burned,F,A,NA,34.5,72,21,62,7,24,Bison,3.334051724
+Small mammal,,P.leu,2974,TCEX,6.71,-20.28,13.37,44.23,Danielle D,2018,2002.5,15.5,Unburned,F,A,P,50,77,21,66,4,20,No bison,3.30815258
+Small mammal,,P.man,2975,HF,5.18,-23.71,13.41,44.6,Angelica B,2019,2013,6,Unburned,F,A,PL,30,51,15,55,6,11,Bison,3.325876212
+Small mammal,,P.leu,2979,CCE,3.4,-18.34,12.84,43.34,Sarah N,2018,2007,11,Unburned,M,SA,NA,21.5,63,17,45,4,17,No bison,3.375389408
+Small mammal,,P.leu,2982,TCEX,7.37,-10.29,13.45,45.38,Danielle D,2018,2002.5,15.5,Unburned,M,A,NA,35,70,21,69,4,21,No bison,3.373977695
+Small mammal,,P.man,2987,TC,9.18,-10.52,12.89,43.76,Danielle D,2018,2002.5,15.5,Burned,M,A,NA,33,53,19,61,4,21,No bison,3.394879752
+Small mammal,,P.man,2987,TC,7.15,-13.77,13.25,45.95,Sarah N,2018,2002.5,15.5,Burned,M,A,NA,33,53,19,61,4,21,No bison,3.467924528
+Small mammal,,P.man,2988,HPN,5.82,-24.64,12.92,44.76,Angelica B,2019,2012,7,Unburned,F,SA,NA,26,56,13.5,52,6,10,Bison,3.464396285
+Small mammal,,P.man,2992,HPN,4.62,-24.27,12.88,44.51,Angelica B,2019,2012,7,Unburned,M,A,NA,27,46,14,53,6,13,Bison,3.455745342
+Small mammal,,P.man,2994,TC,7.9,-11.89,13.23,46.84,Angelica B,2018,2002.5,15.5,Burned,M,A,NA,30.5,57,17,57,10,3,No bison,3.540438398
+Small mammal,,P.man,2996,L,4.31,-25.26,13.4,45.07,Angelica B,2019,2011,8,Burned,M,SA,NA,25,49,16,63,6,10,Bison,3.363432836
+Small mammal,,P.man,3002,L,5.83,-13.14,13.45,44.5,Angelica B,2019,2011,8,Burned,M,A,NA,25,45,16,49,6,11,Bison,3.308550186
+Small mammal,,P.man,3004,L,8.53,-12.68,13.53,44.53,Angelica B,2019,2011,8,Burned,M,A,NA,26,46,15,58,4,23,Bison,3.29120473
+Small mammal,,M.och,3007,CCEEX,3.43,-27.23,13.18,45.03,Sarah N,2018,2007,11,Unburned,F,A,NA,47,46,19,85,6,15,No bison,3.416540212
+Small mammal,,P.man,3010,L,6.6,-14.16,13.72,44.88,Angelica B,2019,2011,8,Burned,F,A,L,29,42,14,57,4,25,Bison,3.271137026
+Small mammal,,P.man,3012,TC,7.83,-17.9,12.46,46.63,Sarah N,2018,2002.5,15.5,Burned,F,J,NA,26,50,18,52,6,19,No bison,3.742375602
+Small mammal,,P.man,3020,TCEX,7.1,-12.91,13.14,43.79,Danielle D,2018,2002.5,15.5,Unburned,M,A,NA,33.5,56,18,61,4,20,No bison,3.332572298
+Small mammal,,P.man,3021,HF,4.72,-23.98,12.98,45.95,Angelica B,2018,2013,5,Burned,F,A,P,36.5,57,17,58,6,9,Bison,3.540061633
+Small mammal,,M.och,3022,TCR,4.26,-25.24,12.75,45.66,Angelica B,2018,C,50,Burned,F,A,P,57,33,19,80,10,3,No bison,3.581176471
+Small mammal,,P.man,3025,CCW,8.25,-12.54,13.8,44.49,Sarah N,2018,2008,10,Burned,M,SA,NA,28,56,17,55,7,28,No bison,3.223913043
+Small mammal,,P.man,3028,HF,5.64,-22.55,13.93,44.83,Sarah N,2018,2013,5,Burned,M,SA,NA,26.5,52,17,51,7,24,Bison,3.218234027
+Small mammal,,P.man,3028,HF,6.43,-14.54,13.66,45.67,Sarah N,2018,2013,5,Burned,M,SA,NA,26.5,52,17,51,7,24,Bison,3.343338214
+Small mammal,,M.och,3031,SF,3.5,-26,13.17,46.38,Angelica B,2018,2001,17,Unburned,F,A,L,57,46,20,92,10,1,No bison,3.521640091
+Small mammal,,P.man,3032,MUR,5.05,-22.02,13.64,45.59,Sarah N,2018,C,50,Burned,M,A,NA,32,52,18,63,7,28,Bison,3.342375367
+Small mammal,,P.man,3032,MUR,2.27,-22.82,13.08,44.79,Angelica B,2018,C,50,Burned,M,A,NA,32,52,18,63,7,28,Bison,3.424311927
+Small mammal,,P.man,3033,WH,2.46,-24.2,14.13,47.56,Angelica B,2019,1992,27,Burned,F,A,P,35,60,18,59,4,23,Bison,3.365888181
+Small mammal,,P.man,3034,CCW,2.91,-23.64,13.66,47.06,Angelica B,2018,2008,10,Burned,F,A,NA,28.5,56,18,52,9,28,No bison,3.445095168
+Small mammal,,M.och,3036,TC,5.56,-25.12,13.82,45.07,Sarah N,2018,2002.5,15.5,Burned,F,A,NA,47,34,18,82,7,31,No bison,3.26121563
+Small mammal,,P.man,3038,MU,2.92,-22.31,12.39,42.89,Angelica B,2018,1986.5,31.5,Burned,F,A,NA,39,76,21,66,9,28,Bison,3.461662631
+Small mammal,,P.man,3039,CCW,3.32,-24.71,13.66,46.03,Angelica B,2018,2008,10,Burned,F,A,P,36.5,58,17,54,9,28,No bison,3.369692533
+Small mammal,,P.man,3041,HF,5.7,-24.47,13.48,45.41,Sarah N,2018,2013,5,Burned,M,A,NA,33.5,54,17,56,6,11,Bison,3.368694362
+Small mammal,,P.man,3042,SB,4.16,-20.31,13.63,44.9,Angelica B,2019,2009,10,Burned,M,A,NA,30,50,16,59,4,9,No bison,3.294203962
+Small mammal,,M.mus,3043,SB,13.82,-10.66,13.84,46.4,Angelica B,2018,2009,9,Unburned,F,J,NA,27.5,73,19,49,10,1,No bison,3.352601156
+Small mammal,,P.man,3044,TC,6.51,-23.24,14.05,45.55,Sarah N,2018,2002.5,15.5,Burned,M,SA,NA,28.5,64,18,55,8,1,No bison,3.241992883
+Small mammal,,P.leu,3047,SBEX1,4.47,-21.43,13.76,44.38,Sarah N,2018,2009,9,Unburned,M,A,NA,38.5,81,20,60,10,1,No bison,3.388888889
+Small mammal,,P.leu,3047,SBEX1,7.67,-22.76,13.68,46.36,Angelica B,2018,2009,9,Unburned,M,A,NA,38.5,81,20,60,10,1,No bison,3.225290698
+Small mammal,,P.man,3049,SBEX1,6.03,-22.94,13.57,46.98,Angelica B,2018,2009,9,Unburned,M,A,NA,23,54,18,55,10,1,No bison,3.462048637
+Small mammal,,M.och,3053,TC,4.25,-26.43,12.61,42.96,Sarah N,2018,2002.5,15.5,Burned,F,A,NA,49.5,36,18,80,8,2,No bison,3.406819984
+Small mammal,,P.man,3054,TCR,6.09,-19.5,13.97,45.05,Sarah N,2018,C,50,Burned,F,A,NA,35.5,56,18,57,8,2,No bison,3.224767359
+Small mammal,,P.leu,3055,MU,2.21,-24.93,13.51,45.03,Sarah N,2018,1986.5,31.5,Burned,M,A,NA,44.5,79,22,73,7,28,Bison,3.333086603
+Small mammal,,P.man,3057,TCE,3.96,-12.91,13.46,45.63,Angelica B,2019,2002.5,16.5,Unburned,F,A,NA,35,42.5,15,56,4,8,No bison,3.390044577
+Small mammal,,P.leu,3061,CCWEX,6.49,-22.87,14.15,45.45,Sarah N,2018,2008,10,Unburned,F,A,NA,28,71,21,51,6,16,No bison,3.212014134
+Small mammal,,P.leu,3062,HPW,4.11,-24.32,14.05,44.24,Sarah N,2018,2008,10,Burned,F,A,NA,40,74,21,64,7,25,Bison,3.148754448
+Small mammal,,P.leu,3062,HPW,3.95,-24.81,13.81,45.76,Angelica B,2018,2008,10,Burned,F,A,NA,40,74,21,64,7,25,Bison,3.313540912
+Small mammal,,P.leu,3063,WH,1.96,-21.74,12.63,41.19,Angelica B,2019,1992,27,Burned,M,A,NA,32,70.5,59,57,4,24,Bison,3.26128266
+Small mammal,,P.leu,3065,HL,5.29,-22.26,13.13,44.24,Angelica B,2018,2001,17,Burned,F,A,L,41.5,74,19,62,9,24,Bison,3.369383092
+Small mammal,,P.man,3066,SBEE,6.24,-12.56,13.56,45.1,Angelica B,2019,2009,10,Unburned,M,A,NA,30,46,15,58.5,4,9,No bison,3.325958702
+Small mammal,,P.leu,3067,WH,4.74,-22.37,13.63,44.7,Sarah N,2018,1992,26,Unburned,A,F,NA,31.5,70,21,58,7,27,Bison,3.279530448
+Small mammal,,P.man,3068,HF,4.56,-24.31,12.73,45.28,Angelica B,2018,2013,5,Burned,M,J,NA,17,32,15,32,7,26,Bison,3.556952082
+Small mammal,,M.och,3069,WH,2.47,-22.36,12.75,46.56,Sarah N,2018,1992,26,Unburned,F,A,NA,35,37,17,70,6,13,Bison,3.651764706
+Small mammal,,P.man,3072,TCR,5.68,-17.68,13.58,44.59,Sarah N,2018,C,50,Burned,M,SA,NA,24,49,17,51,6,18,No bison,3.283505155
+Small mammal,,P.man,3073,CCWEX,2.79,-25.35,13.31,45.28,Angelica B,2018,2008,10,Unburned,M,SA,NA,30,58,17,61,9,29,No bison,3.401953418
+Small mammal,,Z.hud,3081,WH,0.54,-18.03,14.17,45.25,Sarah N,2018,1992,26,Unburned,F,A,NA,35.5,116,29,63,7,29,Bison,3.193366267
+Small mammal,,P.leu,3083,HL,5.66,-23.55,14.34,45.4,Sarah N,2018,2001,17,Burned,M,A,NA,31,66,19,54,7,26,Bison,3.165969317
+Small mammal,,P.man,3084,HF,6.27,-24.11,13.58,44.94,Sarah N,2018,2013,5,Burned,F,SA,NA,28.5,53,18,65,7,25,Bison,3.309278351
+Small mammal,,P.man,3084,HF,4.09,-24.71,12.56,45.09,Angelica B,2018,2013,5,Burned,F,SA,NA,28.5,53,18,65,7,25,Bison,3.589968153
+Small mammal,,M.och,3085,CCE,4.58,-24.77,13.66,46.4,Angelica B,2018,2007,11,Unburned,F,A,NA,48,45,19,85,9,28,No bison,3.396778917
+Small mammal,,P.man,3086,TC,7.13,-14.32,13,44.51,Sarah N,2018,2002.5,15.5,Burned,M,A,NA,28,52,19,61,6,17,No bison,3.423846154
+Small mammal,,P.leu,3087,HPW,3.61,-25.24,13.64,46.2,Angelica B,2018,2008,10,Burned,F,A,L,40,75,21,63,9,24,Bison,3.387096774
+Small mammal,,P.man,3088,SBEX2,8.36,-11.52,13.57,45.22,Angelica B,2018,2009,9,Unburned,M,A,NA,30.5,50,17,54,8,3,No bison,3.332350774
+Small mammal,,P.man,3089,TCEX,5.53,-24.97,13.6,44.26,Sarah N,2018,2002.5,15.5,Unburned,M,A,NA,29.5,51,18,54,8,3,No bison,3.254411765
+Small mammal,,P.man,3089,TCEX,4.67,-24.68,12.55,44.86,Angelica B,2018,2002.5,15.5,Unburned,M,A,NA,29.5,51,18,54,8,3,No bison,3.574501992
+Small mammal,,P.man,3091,CCWEX,2.61,-13.68,13.37,43.62,Angelica B,2019,2008,11,Unburned,F,A,P,30,55,14.5,52,4,13,No bison,3.262528048
+Small mammal,,P.leu,3092,CCWEX,6.86,-21.94,14.07,45.15,Sarah N,2018,2008,10,Unburned,M,A,NA,33.5,73,20,55,7,27,No bison,3.208955224
+Small mammal,,P.leu,3093,HL,5.51,-19.77,13.95,45.42,Sarah N,2018,2001,17,Burned,F,A,P,36.5,74,20,63,7,24,Bison,3.255913978
+Small mammal,,P.man,3098,CCW,5.84,-21.39,13.87,45.62,Sarah N,2018,2008,10,Burned,M,SA,NA,28,54,17,53,7,30,No bison,3.289113194
+Small mammal,,P.man,3098,CCW,3.54,-22.92,13.39,45.79,Angelica B,2018,2008,10,Burned,M,SA,NA,28,54,17,53,7,30,No bison,3.419716206
+Small mammal,,P.man,3099,CCW,3.38,-23.95,13.65,45.84,Sarah N,2018,2008,10,Burned,F,J,NA,26,57,16,55,7,28,No bison,3.358241758
+Small mammal,,M.och,3105,TC,3.97,-26.02,14.12,45.49,Sarah N,2018,2002.5,15.5,Burned,M,A,NA,42.5,39,19,76,8,2,No bison,3.221671388
+Small mammal,,M.och,3105,TC,4.19,-24.9,12.75,44.96,Angelica B,2018,2002.5,15.5,Burned,M,A,NA,42.5,39,19,76,8,2,No bison,3.52627451
+Small mammal,,P.leu,3113,FC,5.3,-19.79,13.56,46.62,Sarah N,2018,2006.5,11.5,Burned,M,SA,NA,32.5,59,19,64,7,25,No bison,3.438053097
+Small mammal,,P.leu,3114,WH,3.43,-24.95,14,44.61,Sarah N,2018,1992,26,Unburned,F,A,P,30.5,69,19,55,7,27,Bison,3.186428571
+Small mammal,,M.och,3115,FC,3.42,-27.73,12.57,44.47,Angelica B,2019,2006.5,12.5,Unburned,F,A,NA,40,46,18,73,4,24,No bison,3.537788385
+Small mammal,,P.leu,3116,HL,6.12,-10.76,13.53,45.42,Angelica B,2018,2001,17,Burned,F,A,NA,34,70,22,61,7,26,Bison,3.356984479
+Small mammal,,P.man,3121,L,9.53,-9.66,13.88,46.58,Angelica B,2018,2011,7,Unburned,M,A,NA,28.5,50,18,54,9,24,Bison,3.355907781
+Small mammal,,P.man,3122,CCE,3.6,-24.47,13.89,45.24,Sarah N,2018,2007,11,Unburned,M,A,NA,30,60,18,54,7,29,No bison,3.511940299
+Small mammal,,P.man,3122,CCE,2.62,-24.58,13.4,47.06,Angelica B,2018,2007,11,Unburned,M,A,NA,30,60,18,54,7,29,No bison,3.257019438
+Small mammal,,P.man,3123,FC,6.93,-19.43,13.93,44.72,Sarah N,2018,2006.5,11.5,Burned,F,A,NA,28.5,56,17,55,7,26,No bison,3.210337401
+Small mammal,,P.leu,3128,CCWEX,7.69,-24.02,13.78,44.61,Sarah N,2018,2008,10,Unburned,M,A,NA,35.5,71,22,64,7,28,No bison,3.237300435
+Small mammal,,P.man,3130,TCR,4.15,-22.36,13.23,46.48,Angelica B,2018,C,50,Burned,F,A,NA,28,50,18,59,10,1,No bison,3.513227513
+Small mammal,,P.man,3131,MUR,5.57,-18.53,13.61,44.95,Sarah N,2018,C,50,Burned,F,A,NA,28.5,56,17,55,7,28,Bison,3.302718589
+Small mammal,,P.man,3133,MUR,4.2,-20.99,13.88,44.61,Sarah N,2018,C,50,Burned,M,A,NA,31,54,17,57,7,27,Bison,3.213976945
+Small mammal,,P.leu,3134,HPW,6.4,-22.89,13.77,45.19,Sarah N,2018,2008,10,Burned,F,A,NA,32,62,20,57,7,26,Bison,3.281771968
+Small mammal,,P.leu,3135,SBEX1,5.43,-15.91,13.82,46.34,Angelica B,2018,2009,9,Unburned,M,A,NA,30,69,19,58,10,1,No bison,3.353111433
+Small mammal,,P.man,3136,CCWEX,5.33,-21.72,13.58,44.95,Sarah N,2018,2008,10,Unburned,M,SA,NA,28.5,53,18,50,7,28,No bison,3.428464978
+Small mammal,,P.man,3136,CCWEX,4.19,-22.74,13.42,46.01,Angelica B,2018,2008,10,Unburned,M,SA,NA,28.5,53,18,50,7,28,No bison,3.310014728
+Small mammal,,P.man,3137,CCWEX,6.67,-19.76,13.26,46.61,Sarah N,2018,2008,10,Unburned,M,A,NA,29.5,54,16,55,6,13,No bison,3.515082956
+Small mammal,,P.leu,3138,HL,4.61,-23.94,13.8,44.44,Sarah N,2018,2001,17,Burned,F,A,NA,32.5,64,20,58,7,25,Bison,3.220289855
+Small mammal,,,3139,,5.95,-19.88,13.91,45.28,Sarah N,2019,,,,,,,,,,,,,,
+Small mammal,,P.man,3140,FC,6.28,-19.74,14.17,47.48,Sarah N,2018,2006.5,11.5,Burned,F,SA,NA,30.5,55,17,56,7,24,No bison,3.350741002
+Small mammal,,P.man,3141,CCW,3.15,-24.4,12.14,46.72,Angelica B,2018,2008,10,Burned,F,J,NA,28,52,17,55,9,28,No bison,3.848434926
+Small mammal,,Z.hud,3142,WH,2.8,-20.79,14.28,45.1,Sarah N,2018,1992,26,Unburned,F,A,NA,32.5,122,29,58,7,29,Bison,3.158263305
+Small mammal,,P.leu,3143,HL,3.05,-24.19,14.21,44.66,Sarah N,2018,2001,17,Burned,F,A,PL,40,74,19,61,7,24,Bison,3.142857143
+Small mammal,,P.man,3145,CCW,5.38,-20.78,13.45,45.36,Sarah N,2018,2008,10,Burned,F,A,NA,33.5,56,17,55,7,27,No bison,3.372490706
+Small mammal,,P.leu,3146,WH,4.56,-23.96,13.3,43.46,Sarah N,2018,1992,26,Unburned,M,A,NA,41,85,20,73,7,28,Bison,3.267669173
+Small mammal,,P.man,3147,MUR,6.12,-21.05,13.94,45.83,Sarah N,2018,C,50,Burned,F,SA,NA,29.5,58,18,51,7,27,Bison,3.287661406
+Small mammal,,P.leu,3148,WH,3.38,-24.03,13.66,45.97,Sarah N,2018,1992,26,Unburned,M,A,NA,38.5,77,21,60,7,29,Bison,3.365300146
+Small mammal,,M.och,3149,TC,5.2,-24.75,9.33,31.07,Sarah N,2018,2002.5,15.5,Burned,F,A,NA,43.5,38,19,81,8,1,No bison,3.330117899
+Small mammal,,P.leu,3150,TCEX,8.75,-22.13,13.74,45.7,Angelica B,2018,2002.5,15.5,Unburned,M,A,NA,36,85,21,63,10,1,No bison,3.326055313
+Small mammal,,P.man,3154,HL,5.65,-22.37,13.68,44.89,Sarah N,2018,2001,17,Burned,M,A,NA,33.5,57,19,57,7,25,Bison,3.785714286
+Small mammal,,P.man,3154,HL,3.61,-19.65,12.18,46.11,Angelica B,2018,2001,17,Burned,M,A,NA,33.5,57,19,57,7,25,Bison,3.281432749
+Small mammal,,P.man,3155,TC,6.18,-20.83,13.89,45.6,Sarah N,2018,2002.5,15.5,Burned,M,A,NA,29,56,19,52,8,1,No bison,3.282937365
+Small mammal,,P.man,3156,MU,3.93,-23.2,12.92,46.19,Angelica B,2018,1986.5,31.5,Burned,F,J,NA,24,52,18,48,9,28,Bison,3.575077399
+Small mammal,,P.man,3157,MUR,5.39,-18.29,13.93,45.21,Sarah N,2018,C,50,Burned,M,A,NA,31,54,18,57,7,30,Bison,3.245513281
+Small mammal,,P.man,3158,TC,6.46,-24.11,13.94,46.36,Sarah N,2018,2002.5,15.5,Burned,M,J,NA,29,54,17,52,8,1,No bison,3.325681492
+Small mammal,,M.och,3159,HL,2.47,-25.71,13.61,45.07,Angelica B,2018,2001,17,Burned,M,A,NA,49.5,38,18,85,9,24,Bison,3.311535636
+Small mammal,,P.leu,3161,HL,3.56,-22.63,13.99,44.55,Sarah N,2018,2001,17,Burned,M,A,NA,36,73,21,65,7,26,Bison,3.184417441
+Small mammal,,P.leu,3162,HPW,3.6,-22.43,13.69,44.24,Sarah N,2018,2008,10,Burned,M,A,NA,34.5,70,20,61,7,25,Bison,3.23155588
+Small mammal,,P.man,3165,MUR,4.34,-20.32,13.65,45.29,Sarah N,2018,C,50,Burned,F,SA,NA,29,52,17,57,6,15,Bison,3.317948718
+Small mammal,,P.man,3165,MUR,3.33,-22.2,13.9,44.74,Sarah N,2018,C,50,Burned,F,SA,NA,29,52,17,57,6,15,Bison,3.218705036
+Small mammal,,Z.hud,3166,WH,2.21,-17.51,14.32,45.45,Sarah N,2018,1992,26,Unburned,F,A,NA,29.5,119,28,59,7,30,Bison,3.173882682
+Small mammal,,P.leu,3167,TCEX,4.8,-21.41,13.73,44.36,Sarah N,2018,2002.5,15.5,Unburned,M,A,NA,32,69,19,64,8,1,No bison,3.230881282
+Small mammal,,P.man,3168,TCR,7.43,-15.48,12.74,47.07,Sarah N,2018,C,50,Burned,M,A,NA,3,52,17,53,6,19,No bison,3.69466248
+Small mammal,,P.man,3168,TCR,6.74,-19.51,13.48,45.13,Sarah N,2018,C,50,Burned,M,A,NA,3,52,17,53,6,19,No bison,3.347922849
+Small mammal,,P.man,3171,MUR,7.56,-25.66,11.04,51.81,Sarah N,2018,C,50,Burned,M,SA,NA,28.5,48,17,50,7,29,Bison,4.692934783
+Small mammal,,P.man,3172,WH,4.91,-23.89,13.52,44.86,Sarah N,2018,1992,26,Unburned,F,A,P,37.5,76,20,68,7,30,Bison,3.318047337
+Small mammal,,P.man,3172,WH,4.84,-24.09,13.7,45.82,Angelica B,2018,1992,26,Unburned,F,A,P,37.5,76,20,68,7,30,Bison,3.344525547
+Small mammal,,P.man,3173,SB,5.13,-19.36,13.53,47.5,Angelica B,2018,2009,9,Unburned,M,SA,NA,30,55,19,60,10,1,No bison,3.510716925
+Small mammal,,M.mus,3174,HL,14.51,-11.2,13.68,46.07,Angelica B,2018,2001,17,Burned,M,A,NA,27,73,18,55,9,26,Bison,3.367690058
+Small mammal,,Z.hud,3175,WH,3.34,-24.87,14.23,44.9,Sarah N,2018,1992,26,Unburned,F,J,NA,25.5,108,28,50,7,28,Bison,3.155305692
+Small mammal,,P.man,3176,CCEEX,3.31,-25.04,13.65,46.3,Angelica B,2018,2007,11,Unburned,M,SA,NA,31.5,54,18,56,9,29,No bison,3.391941392
+Small mammal,,P.man,3179,TC,8.13,-12.8,13.65,45.22,Sarah N,2018,2002.5,15.5,Burned,F,A,L,33.5,56,17,59,6,19,No bison,3.312820513
+Small mammal,,P.man,3183,CCWEX,5.41,-20.88,13.7,44.64,Sarah N,2018,2008,10,Unburned,M,A,NA,30.5,55,18,60,6,13,No bison,3.258394161
+Small mammal,,P.leu,3184,TCEX,6.01,-21.04,12.49,46.28,Angelica B,2018,2002.5,15.5,Unburned,M,A,NA,34.5,73,21,63,8,3,No bison,3.705364291
+Small mammal,,P.leu,3185,MUR,5.09,-20.93,13.77,44.69,Sarah N,2018,C,50,Burned,F,SA,NA,27,59,17,47,7,27,Bison,3.245461147
+Small mammal,,P.leu,3187,HL,2.56,-23.15,13.78,46.26,Sarah N,2018,2001,17,Burned,M,A,NA,33,69,18,58,6,11,Bison,3.357039187
+Small mammal,,P.man,3188,MUR,5.69,-18.56,13.69,45.55,Sarah N,2018,C,50,Burned,M,A,NA,26,50,17,53,6,16,Bison,3.327246165
+Small mammal,,P.leu,3190,WH,3.87,-24.29,13.88,45.23,Sarah N,2018,1992,26,Unburned,M,A,NA,36,78,20,64,7,28,Bison,3.258645533
+Small mammal,,P.man,3191,CCW,3.67,-24.04,13.21,46.38,Angelica B,2018,2008,10,Burned,M,A,NA,26,56,17,52,6,16,No bison,3.510976533
+Small mammal,,P.man,3192,TCEX,7.01,-16.3,13.72,44.19,Sarah N,2018,2002.5,15.5,Unburned,M,SA,NA,28,50,17,49,7,31,No bison,3.220845481
+Small mammal,,P.man,3193,CCWEX,3.13,-23.37,12.91,45.03,Angelica B,2018,2008,10,Unburned,M,A,NA,32.5,57,18,63,9,28,No bison,3.487993803
+Small mammal,,M.och,3195,L,3.15,-27.24,13.83,44.14,Sarah N,2018,2011,7,Unburned,F,A,P,44.5,32,19,73,7,25,Bison,3.191612437
+Small mammal,,M.och,3196,TCR,3.4,-26.17,12.32,45.92,Angelica B,2018,C,50,Burned,F,A,NA,51,41,18,81,10,3,No bison,3.727272727
+Small mammal,,P.man,3198,FC,5.36,-19.94,13.84,45.7,Sarah N,2018,2006.5,11.5,Burned,M,J,NA,28,52,19,51,6,12,No bison,3.302023121
+Small mammal,,P.leu,3199,WH,3.86,-22.98,13.63,44.38,Sarah N,2018,1992,26,Unburned,M,A,NA,37.5,65,22,61,7,27,Bison,3.256052825
+Small mammal,,P.man,3201,CCEEX,5.27,-17.19,13.58,47.09,Angelica B,2018,2007,11,Unburned,M,SA,NA,30.5,56,18,52,9,28,No bison,3.467599411
+Small mammal,,P.leu,3204,HPN,4.61,-21.97,12.04,48.06,Sarah N,2018,2012,6,Unburned,M,A,NA,24,66,17,45,6,10,Bison,3.991694352
+Small mammal,,M.och,3205,TCR,3.33,-27.23,14.04,42.69,Sarah N,2018,C,50,Burned,M,A,NA,45.5,37,19,83,8,3,No bison,3.040598291
+Small mammal,,P.leu,3206,MU,2.3,-24.4,13.65,44.34,Sarah N,2018,1986.5,31.5,Burned,M,A,NA,43.5,77,20,67,7,29,Bison,3.248351648
+Small mammal,,P.leu,3208,MU,5.83,-19.81,13.93,45.82,Sarah N,2018,1986.5,31.5,Burned,M,A,NA,35,78,21,63,7,29,Bison,3.289303661
+Small mammal,,P.leu,3209,SF,5.97,-22.67,13.19,45.08,Angelica B,2018,2001,17,Unburned,M,SA,NA,29.5,70,20,52,7,26,No bison,3.417740713
+Small mammal,,P.leu,3210,WH,3.83,-23.32,13.93,45.65,Sarah N,2018,1992,26,Unburned,M,A,NA,33.5,68,20,57,7,30,Bison,3.277099785
+Small mammal,,P.leu,3211,HL,4.55,-22.99,13.97,45.45,Sarah N,2018,2001,17,Burned,M,A,NA,31.5,75,20,58,7,25,Bison,3.253400143
+Small mammal,,P.man,3215,CCE,5.65,-17.36,13.5,45.94,Angelica B,2018,2007,11,Unburned,M,A,NA,30,52,18,54,9,28,No bison,3.402962963
+Small mammal,,P.man,3216,HL,4.43,-22.05,12.26,44.34,Angelica B,2018,2001,17,Burned,M,SA,NA,31.5,52,18,58,9,24,Bison,3.616639478
+Small mammal,,P.man,3218,HF,2.45,-24.58,13.25,45.16,Sarah N,2018,2013,5,Burned,F,SA,NA,34,60,17,63,6,10,Bison,3.408301887
+Small mammal,,P.man,3220,SBEX1,8.07,-19.04,13.71,45.01,Sarah N,2018,2009,9,Unburned,F,SA,NA,25.5,52,17,50,7,31,No bison,3.283005106
+Small mammal,,P.man,3222,HF,6.28,-24.01,13.63,45.21,Sarah N,2018,2013,5,Burned,F,SA,NA,28.5,55,17,57,6,12,Bison,3.316947909
+Small mammal,,P.leu,3223,CCW,4.93,-22.25,13.98,44.95,Sarah N,2018,2008,10,Burned,F,A,NA,31,62,17,59,7,27,No bison,3.215307582
+Small mammal,,,3253,,5.94,-20.46,12.94,45.32,Angelica B,2019,,,,,,,,,,,,,,
+Small mammal,,P.man,3706,HF,4.9,-22.57,12.47,45.78,Angelica B,2018,2013,5,Burned,M,SA,NA,29,55,17,50,6,9,Bison,3.671210906
+Small mammal,,P.man,3747,SB,2.75,-22.92,13.48,44.25,Danielle D,2017,2009,8,Unburned,M,A,NA,33,57,17,61,9,30,No bison,3.28264095
+Small mammal,Ground squirrel,,4356,,4.31,-24.28,13.2,46.85,Kirstie,2016,,,,,,,,,,,,,,
+Small mammal,,P.leu,5235,SB,8.19,-16.02,13.82,44.87,Sarah N,2019,2009,10,Burned,F,A,PL,34.5,71,18,59,8,20,No bison,3.246743849
+Small mammal,,P.man,6902,TCR,5.88,-20.7,13.63,45.4,Sarah N,2019,C,50,Unburned,M,A,NA,27.5,54,15,57,8,16,No bison,3.330887748
+Small mammal,,P.man,7643,HPN,5.66,-24.38,13.67,45.62,Sarah N,2019,2012,7,Unburned,M,A,NA,33,52,14,51,8,13,Bison,3.337234821
+Small mammal,,P.leu,7655,MU,3.52,-24.74,13.41,44.29,Sarah N,2019,1986.5,32.5,Unburned,F,A,PL,39,76,18,68,8,16,Bison,3.302759135
+Small mammal,,P.man,7656,CCW,4.26,-23.46,13.57,45.91,Sarah N,2019,2008,11,Unburned,F,A,L,27,54.5,14,52,8,21,No bison,3.383198231
+Small mammal,,P.man,7664,SB,6.67,-15.28,13.44,45.08,Angelica B,2019,2009,10,Burned,F,A,PL,34,54,16,60,6,19,No bison,3.354166667
+Small mammal,,R.meg,7674,FC,4.43,-23.62,12.65,47.32,Sarah N,2019,2006.5,12.5,Unburned,F,A,PL,18.5,63,16,42,8,17,No bison,3.740711462
+Small mammal,,P.man,7676,TCR,3.1,-23.37,13.55,45.82,Sarah N,2019,C,50,Unburned,M,A,NA,17,63,15,48,8,16,No bison,3.381549815
+Small mammal,,M.och,7680,FC,3.71,-21.95,13.41,44.04,Sarah N,2019,2006.5,12.5,Unburned,F,A,L,48.5,34,14.5,87,8,16,No bison,3.284116331
+Small mammal,,P.man,7683,CCEE,5.91,-21.24,13.39,45.16,Angelica B,2019,2007,12,Burned,F,SA,NA,26,45,15,48,6,21,No bison,3.372666169
+Small mammal,,P.man,7684,SF,4.1,-18.89,12.62,45.05,Angelica B,2019,2001,18,Burned,M,A,NA,25,51,16,55,6,11,No bison,3.569730586
+Small mammal,,P.man,7691,CCE,5.8,-20.79,12.55,45.6,Angelica B,2019,2007,12,Burned,F,SA,NA,25,44,15,46,6,20,No bison,3.633466135
+Small mammal,,P.leu,7701,TCR,6.62,-24.55,13.74,45.2,Sarah N,2019,C,50,Unburned,M,A,NA,30,75,18,58,8,17,No bison,3.46702047
+Small mammal,,P.leu,7701,TCR,5.55,-24.29,13.19,45.73,Sarah N,2019,C,50,Unburned,M,A,NA,30,75,18,58,8,17,No bison,3.289665211
+Small mammal,,P.man,7712,CCEE,6.17,-20.94,13.24,45.41,Angelica B,2019,2007,12,Burned,M,SA,NA,24,47,14.5,43,6,20,No bison,3.429758308
+Small mammal,,P.man,7717,MUR,3.72,-23.03,13.33,45.4,Sarah N,2019,C,50,Burned,F,A,NA,28,60,21,53,8,15,Bison,3.405851463
+Small mammal,,R.meg,7722,TCE,4.31,-23.21,13.6,45.25,Sarah N,2019,2002.5,16.5,Unburned,M,A,NA,21,65,16,48,8,15,No bison,3.327205882
+Small mammal,,P.man,7730,TCR,4.7,-21.08,13.52,44.72,Sarah N,2019,C,50,Unburned,M,A,NA,25.5,59,16,56,8,16,No bison,3.307692308
+Small mammal,,P.man,7733,TC,7.51,-20.23,13.55,44.69,Sarah N,2019,2002.5,16.5,Unburned,M,A,NA,28,53,16,55,8,16,No bison,3.298154982
+Small mammal,,P.man,8548,CCW,8.83,-10.15,13.45,44.88,Danielle D,2018,2008,10,Burned,M,A,NA,38,45,18.5,64,4,15,No bison,3.336802974
+Small mammal,,P.man,8548,CCW,8.21,-11.24,13.86,44.19,Sarah N,2018,2008,10,Burned,M,A,NA,38,45,18.5,64,4,15,No bison,3.188311688
+Small mammal,,P.man,8556,HL,2.88,-21.13,13.26,46.19,Angelica B,2018,2001,17,Burned,M,A,NA,34,58,18,57,6,9,Bison,3.483408748
+Small mammal,,P.leu,8573,L,6.59,-22.47,13.19,45.28,Sarah N,2018,2011,7,Unburned,F,SA,NA,22.5,62,15,44,4,11,Bison,3.432903715
+Small mammal,,P.man,8597,TCR,8.38,-9.95,13.38,45.1,Danielle D,2018,C,50,Burned,M,A,NA,31,52,18,58,4,22,No bison,3.370702541
+Small mammal,,P.man,8615,CCW,4.56,-21.87,12.95,44.84,Danielle D,2017,2008,9,Unburned,M,SA,NA,27,55,18,57,8,12,No bison,3.462548263
+Small mammal,,P.man,8658,CCW,5.75,-20.94,13.04,46.22,Danielle D,2017,2008,9,Unburned,M,SA,NA,27.5,59,17,58,8,11,No bison,3.544478528
+Small mammal,Mouse,Z.hud,8703,CCE,5.57,-21.16,16.36,49.49,Kirstie,2017,2007,10,Burned,M,A,NA,33,121,28,59,10,2,No bison,3.025061125
+Small mammal,,P.man,8767,TC,7.72,-10.52,13.62,44.37,Danielle D,2018,2002.5,15.5,Burned,F,A,NA,25.5,51,17,58,4,20,No bison,3.257709251
+Small mammal,,P.man,9077,CCEE,11.02,-24.81,13.04,46.98,Sarah N,2019,2007,12,Burned,F,SA,NA,19,51,16,45,8,19,No bison,3.602760736
+Small mammal,,P.man,9080,CCW,4.15,-24.31,13.21,44.6,Sarah N,2019,2008,11,Unburned,M,A,NA,26,53,14.5,57,8,19,No bison,3.376230129
+Small mammal,,P.man,9089,CCEE,11.05,-24.35,13.62,46.32,Sarah N,2019,2007,12,Burned,M,A,NA,24,48,15,50,8,20,No bison,3.400881057
+Small mammal,,P.man,9130,CCEE,6.47,-22.86,12.41,46.23,Sarah N,2019,2007,12,Burned,F,A,NA,27.5,53,16,57,8,19,No bison,3.725221595
+Small mammal,Mouse,Pman,?,,7.08,-24.25,13.84,46.63,Kirstie,2016,,,,,,,,,,,,,,
+Small mammal,,,?,,2.9,-24.74,13.61,45.14,Sarah N,2019,,,,,,,,,,,,,,
